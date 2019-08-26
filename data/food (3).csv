@@ -1,0 +1,1501 @@
+restaurantId,foodname,price,food type
+411243,Stewed Peach & Vinegar Mutton,29.51,American
+717866,Stewed Olive Pheasant,28.63,Chinese
+311287,Dry-Roasted Confit of Lobster,28.84,Indian&Mexican
+179347,Fire-Grilled Truffles & Trout,25.96,Vitenamese
+621147,Broasted Cucumber & Potato Wedges,13.64,American Chinese
+300396,Cured Cucumber & Calzone,21.26,Korean
+678333,Mandarin and Date Tarte Tatin,22.44,Japanese
+337007,Hazelnut and Mango Pie,23.04,Mexican
+667063,Cranberry Pancakes,17.84,American
+957825,Rum Fudge,23.59,Chinese
+878802,Deep-Fried Watercress Chicken,23.33,Indian&Mexican
+884710,Braised Cheese & Mutton,24.43,Vitenamese
+177685,Deep-Fried Easter-Style Prawns,11.41,American Chinese
+464712,Shallow-Fried Sweet & Savory Crab,13.62,Korean
+575868,Basted Tomatoes & Vegetables,12.15,Japanese
+103559,Tenderized Sugar Vegetable Mix,16.61,Mexican
+328917,Coconut and Pistachio Cone,15.97,American
+193013,White Wine and Guava Genoise,20.84,Chinese
+697615,Plum Pie,10.12,Indian&Mexican
+635814,Coffee Gingerbread,15.72,Vitenamese
+455631,Simmered Pasta & Rabbit,10.38,American Chinese
+807307,Blanched Carrot & Coriander Quail,28.51,Korean
+362858,Breaded Figs & Olive Clams,17.30,Japanese
+175142,Stewed Olives & Mustard Prawns,19.60,Mexican
+802375,Dry-Roasted Pasta & Walnuts,25.29,American
+501755,Poached Casserole of Pie,13.73,Chinese
+321384,White Wine and Kiwi Gingerbread,21.25,Indian&Mexican
+752153,Raspberry and Cashew Surprise,25.34,Vitenamese
+473763,Blueberry Pud,13.64,American Chinese
+687487,Cherry Crispies,29.18,Korean
+459053,Braised Sweet & Savory Bear,24.80,Japanese
+972211,Braised Garlic Bear,15.65,Mexican
+631644,Infused Vinegar Cockles,15.21,American
+417992,Tenderized Oregano Fish,29.43,Chinese
+999596,Dried Lime Spring Vegetables,13.84,Indian&Mexican
+446245,Oven-Baked Carrots & Ginger Tofu,25.47,Vitenamese
+681845,Walnut and Orange Mooncake,21.12,American Chinese
+629924,Plum and Honey Strudel,18.05,Korean
+599565,Coffee Cookies,12.85,Japanese
+418031,Licorice Cheesecake,13.78,Mexican
+231530,Slow-Cooked Garlic & Tomato Mammoth,17.87,American
+439521,Broasted Parsnip & Pear Pheasant,12.82,Chinese
+864862,Roasted Basil & Cinnamon Scallops,17.18,Indian&Mexican
+426729,Marinated Mint & Berry Crocodile,20.92,Vitenamese
+345715,Poached Lime & Ginger Linguine,24.49,American Chinese
+467010,Tenderized Nuts & Linguine,22.32,Korean
+490715,Caramel and Guava Trifle,13.81,Japanese
+938489,Blueberry and White Chocolate Tart,20.17,Mexican
+321168,Chestnut Toast,19.17,American
+290156,Pecan Cake,27.81,Chinese
+204493,Engine-Cooked Easter-Style Pheasant,28.01,Indian&Mexican
+771825,Infused Vegetables & Duck,25.85,Vitenamese
+605422,Tenderized Salty & Sour Alligator,16.62,American Chinese
+911761,Stuffed Soy Mussels,10.69,Korean
+602594,Simmered Cinnamon & Thyme Vegetables,18.99,Japanese
+954595,Shallow-Fried Hot & Sweet Bake,18.79,Mexican
+976390,Guava and Cranberry Gingerbread,25.32,American
+413245,Rum and Cherry Bonbons,18.76,Chinese
+778246,Lemon Bonbons,27.07,Indian&Mexican
+801426,Pistachio Jam,26.42,Vitenamese
+172423,Blanched White Wine Beef,15.33,American Chinese
+434043,Fire-Roasted Blueberry Beef,24.94,Korean
+449827,Sautéed Egg & Coconut Clams,12.04,Japanese
+484026,Dried Dark Beer Lobster,27.63,Mexican
+910709,Basted Fennel & Lime Bisque,16.44,American
+489650,Pan-Fried Jasmine Stuffed Bread,11.81,Chinese
+790855,Milk Chocolate and Melon Pancakes,17.69,Indian&Mexican
+593976,Papaya and Pistachio Pound Cake,15.02,Vitenamese
+390214,White Chocolate Pud,10.03,American Chinese
+175084,Honey Toast,28.83,Korean
+178013,Pan-Fried Saffron Mammoth,17.37,Japanese
+225909,Marinated Basil & Clove Duck,22.84,Mexican
+497127,Broasted Vinegar Mussels,22.23,American
+470380,Tea-Smoked Lime & Ginger Salmon,24.32,Chinese
+242491,Sautéed Vanilla & Mint Salad,10.05,Indian&Mexican
+830128,Slow-Cooked Apricot & Basil Vegetable Mix,18.30,Vitenamese
+764210,Avocado and Red Wine Jelly,24.41,American Chinese
+318199,Caramel and Passion Fruit Steamed Pudding,11.07,Korean
+954749,Kiwi Strudel,14.95,Japanese
+140623,Peach Fruit Salad,18.76,Mexican
+367094,Cooked Soy Venison,29.63,American
+640090,Oven-Grilled Peanuts & Pigeon,20.13,Chinese
+781514,Stir-Fried Western-Style Frog,28.88,Indian&Mexican
+286749,Steamed Stew of Herring,16.79,Vitenamese
+420025,Stewed Mustard Potato Wedges,28.47,American Chinese
+433657,Thermal-Cooked Ginger Bread,20.52,Korean
+801989,Plum and Milk Chocolate Delight,21.84,Japanese
+742833,Walnut and Honey Tarte Tatin,27.14,Mexican
+703269,Gooseberry Doughnut,24.14,American
+620653,Cinnamon Whip,22.48,Chinese
+838567,Pressure-Fried Pine Mutton,29.34,Indian&Mexican
+241167,Shallow-Fried Sweet & Spicy Rabbit,20.49,Vitenamese
+590509,Gentle-Fried Potatoes & Clams,14.13,American Chinese
+978476,Slow-Cooked Peach & Vinegar Cod,24.82,Korean
+841460,Stir-Fried Mushroom & Rosemary Chutney,28.99,Japanese
+246088,Broasted Fennel & Lime Pasta,10.65,Mexican
+885743,Blueberry and Mint Fruit Salad,27.39,American
+767709,Grape and Gooseberry Cookies,15.13,Chinese
+822832,Cocoa Crispies,28.10,Indian&Mexican
+667650,Gooseberry Pancakes,27.19,Vitenamese
+782355,Deep-Fried Dark Beer Beef,10.11,American Chinese
+365731,Simmered Sweet & Spicy Bear,18.23,Korean
+280683,Braised Tomatoes & Shrimps,17.19,Japanese
+554595,Smoked Sweet & Spicy Alligator,24.45,Mexican
+496708,Smoked Thyme & Parsley Moussaka,25.19,American
+200199,Cured Fennel & Garlic Bread,13.03,Chinese
+817897,White Chocolate and Banana Milk,11.17,Indian&Mexican
+426859,Chocolate and Raspberry Yogurt,18.46,Vitenamese
+266170,Pecan Waffles,25.42,American Chinese
+306715,Cashew Whip,22.03,Korean
+262541,Poached Lime & Ginger Yak,11.87,Japanese
+164628,Cured Honey & Thyme Ostrich,19.09,Mexican
+988493,Dried Sweet & Fresh Crocodile,10.84,American
+961868,Fried Cucumber & Lime Prawns,28.97,Chinese
+851290,Dried Easter-Style Lasagna,28.24,Indian&Mexican
+773681,Marinated Mushroom Roll,23.82,Vitenamese
+155062,Passion Fruit and Elderberry Ice Cream,15.58,American Chinese
+698769,Chestnut and Honey Pie,28.30,Korean
+501954,Honey Toffee,21.82,Japanese
+369191,Strawberry Pud,23.62,Mexican
+438073,Sautéed Red Whine Boar,25.88,American
+263059,Slow-Cooked Mushroom & Rosemary Ostrich,29.93,Chinese
+825195,Infused Paprika Snapper,17.76,Indian&Mexican
+874049,Brined Dark Ale Frog,25.17,Vitenamese
+183923,Gentle-Fried Apricots & Honey Pizza,17.77,American Chinese
+953599,Baked Coriander & Lemon Walnuts,29.71,Korean
+905585,Mint and Cashew Custard,24.34,Japanese
+605112,Rum and Pecan Pie,29.89,Mexican
+315283,Grapefruit Waffles,22.08,American
+106761,Mango Strudel,23.90,Chinese
+305563,Oven-Grilled Garlic & Onion Bear,23.81,Indian&Mexican
+875157,Blanched Creamy Ostrich,24.73,Vitenamese
+733144,Cured Souther-Style Fish,27.65,American Chinese
+499048,Breaded Walnuts & Scallops,10.06,Korean
+644299,Breaded Fennel & Lemon Rice,29.60,Japanese
+296218,Fried Sour Risotto,17.82,Mexican
+576743,Orange and Licorice Cheesecake,18.61,American
+129450,White Wine and Licorice Pound Cake,24.29,Chinese
+875792,Melon Bread,21.84,Indian&Mexican
+295290,Rum Sundae,28.26,Vitenamese
+720606,Basted Yogurt Boar,13.81,American Chinese
+196463,Simmered Raspberry & Peanut Venison,22.67,Korean
+460355,Pressure-Cooked Creamy Crocodile,17.02,Japanese
+418299,Seared Apples & Mustard Prawns,25.75,Mexican
+271077,Engine-Cooked Creamy Risotto,13.10,American
+712500,Oven-Baked Basil & Clove Winter Vegetables,22.26,Chinese
+701724,Rum and Grapefruit Pudding,11.18,Indian&Mexican
+223965,Pecan and White Chocolate Fruitcake,29.13,Vitenamese
+386497,Walnut Cone,21.95,American Chinese
+501823,Cranberry Jelly,23.84,Korean
+709591,Blanched Fennel & Lemon Pheasant,28.06,Japanese
+868495,Roasted Cinnamon Horse,19.58,Mexican
+836194,Broasted Saffron Clams,13.14,American
+201781,Simmered Vegetables & Lobster,24.15,Chinese
+383626,Poached Peanuts & Stracciatella,17.72,Indian&Mexican
+399207,Pan-Fried Raspberry & Peanut Bisque,17.27,Vitenamese
+706450,Mint and Pecan Snacks,20.01,American Chinese
+316146,Coconut and Lime Buns,25.84,Korean
+725764,Cashew Toffee,17.65,Japanese
+739222,Dark Chocolate Molten Cake,13.02,Mexican
+616099,Basted Mint & Mustard Yak,20.47,American
+387891,Barbecued Sweet & Spicy Pork,19.61,Chinese
+644869,Engine-Cooked Fennel & Orange Lobster,20.77,Indian&Mexican
+427683,Stewed Apricot & Basil Shrimps,25.25,Vitenamese
+785995,Cured Basil & Mint Bake,12.94,American Chinese
+758153,Pressure-Cooked Chestnuts & Pasta,26.83,Korean
+886100,Banana and Passion Fruit Pound Cake,11.63,Japanese
+314529,Cinnamon and Coconut Cookies,10.15,Mexican
+261744,Nutmeg Tarte Tatin,29.57,American
+552919,Vanilla Cobbler,19.86,Chinese
+244673,Braised Lime-Coated Boar,29.94,Indian&Mexican
+711319,Baked Blueberry Ostrich,11.37,Vitenamese
+648071,Seared Hot & Sweet Tuna,24.50,American Chinese
+862166,Oven-Baked Tomatoes & Scallops,24.84,Korean
+872609,Deep-Fried Mustard & Thyme Gratin,16.22,Japanese
+318622,Baked Confit of Minestrone,16.60,Mexican
+272437,Coffee and Mango Tarte Tatin,19.49,American
+501841,Grapefruit and Ginger Pie,29.89,Chinese
+815872,Coconut Delight,18.67,Indian&Mexican
+278338,Cranberry Pancakes,16.46,Vitenamese
+888448,Fire-Grilled Sweet & Fresh Ostrich,15.30,American Chinese
+684978,Cooked Sour & Cream Yak,17.17,Korean
+117194,Stir-Fried Confit of Fish,21.16,Japanese
+597237,Breaded Fennel & Orange Herring,13.02,Mexican
+992027,Engine-Cooked Truffles & Salad,21.76,American
+540434,Barbecued Chestnuts & Forest Mushrooms,12.77,Chinese
+862769,Saffron and Praline Cake,16.22,Indian&Mexican
+568984,Blueberry and Mint Crumble,13.21,Vitenamese
+569756,Cocoa Custard,26.12,American Chinese
+692211,Cardamom Crumble,14.32,Korean
+864297,Simmered Pasta & Quail,16.42,Japanese
+993172,Dry-Roasted Salt & Savory Turkey,22.80,Mexican
+800790,Poached Pepper & Garlic Crab,24.56,American
+147992,Dried Vegetables & Shrimps,13.09,Chinese
+304359,Simmered Onions & Tomato Chutney,29.35,Indian&Mexican
+980334,Infused Garlic Winter Greens,16.81,Vitenamese
+140437,Peach and Coconut Yogurt,25.60,American Chinese
+976068,Apple and Hazelnut Pudding,28.11,Korean
+861569,Caramel Candy,11.29,Japanese
+778043,Ginger Toffee,28.47,Mexican
+859534,Slow-Cooked Onions & Tomato Pheasant,15.63,American
+475982,Dry-Roasted Soy Venison,11.95,Chinese
+100338,Oven-Baked Mushroom & Rosemary Cod,28.83,Indian&Mexican
+575005,Stewed Northern-Style Frog,24.52,Vitenamese
+888939,Fire-Grilled Blueberry & Mushroom Minestrone,17.42,American Chinese
+349033,Stir-Fried Pine Chutney,29.02,Korean
+406839,Date and Grape Toffee,22.02,Japanese
+632696,Grape and Red Wine Fudge,28.81,Mexican
+842902,Vanilla Toffee,23.45,American
+354135,Dark Chocolate Tart,20.15,Chinese
+831834,Tenderized Basil & Lime Yak,15.13,Indian&Mexican
+981436,Basted Garlic & Onion Horse,22.69,Vitenamese
+484896,Smoked Peas & Mushroom Scallops,24.33,American Chinese
+970570,Thermal-Cooked Lime & Ginger Prawns,22.58,Korean
+247322,Grilled Creamy Bread,17.50,Japanese
+337432,Fire-Roasted Oregano Rice,12.15,Mexican
+916995,Nutmeg and Pineapple Doughnut,11.67,American
+210920,Mandarin and Milk Chocolate Fudge,14.88,Chinese
+889038,Strawberry Gingerbread,18.14,Indian&Mexican
+559084,Cherry Soufflé,28.38,Vitenamese
+138687,Sautéed Carrot & Coriander Venison,16.23,American Chinese
+861004,Deep-Fried White Wine Pigeon,23.45,Korean
+453785,Pressure-Fried Ginger Salmon,29.29,Japanese
+624356,Tenderized Black Pepper Salmon,12.56,Mexican
+982397,Barbecued Truffles & Spring Greens,27.42,American
+667165,Brined Egg & Coconut Linguine,29.55,Chinese
+156647,Pecan and Coffee Toast,25.64,Indian&Mexican
+706953,Grape and Walnut Fruitcake,29.62,Vitenamese
+835088,Peach Soufflé,21.05,American Chinese
+598164,Papaya Delight,14.36,Korean
+142195,Fire-Grilled Dark Beer Mammoth,19.71,Japanese
+381316,Marinated Lime-Coated Ostrich,14.70,Mexican
+837753,Pan-Fried Garlic & Rosemary Cockles,27.84,American
+633308,Baked Oregano Prawns,19.97,Chinese
+998943,Simmered Fennel & Lime Calzone,27.22,Indian&Mexican
+713439,Oven-Grilled Hot & Sweet Forest Mushrooms,20.95,Vitenamese
+526063,Walnut and Lemon Bread,25.51,American Chinese
+490652,Cardamom and Mint Doughnut,16.85,Korean
+353076,Pistachio Roll,16.65,Japanese
+325928,Lemon Pie,21.49,Mexican
+797855,Oven-Baked Peanuts & Boar,27.71,American
+836236,Barbecued Salted Venison,10.31,Chinese
+626642,Pan-Fried Mushroom & Rosemary Clams,20.36,Indian&Mexican
+402795,Cured Cinnamon Mussels,12.14,Vitenamese
+924702,Oven-Baked Garlic & Ginger Spring Vegetables,27.70,American Chinese
+834599,Broasted Confit of Salad,24.42,Korean
+886768,Honey and Strawberry Jam,17.28,Japanese
+218787,Cherry and Pistachio Crispies,16.29,Mexican
+138337,Date Whip,14.49,American
+578747,Praline Ice Lollies,24.32,Chinese
+101004,Breaded Egg & Beans Pheasant,28.44,Indian&Mexican
+898395,Stir-Fried Stew of Beef,10.57,Vitenamese
+247871,Fried Light Ale Crab,15.42,American Chinese
+270798,Sautéed Saffron & Shallot Clams,24.98,Korean
+310918,Pressure-Fried Forest Roll,22.58,Japanese
+196166,Breaded White Wine Walnuts,21.74,Mexican
+281157,White Wine and Hazelnut Gingerbread,14.38,American
+329799,Hazelnut and Pineapple Fruit Salad,18.10,Chinese
+177893,Cherry Molten Cake,20.39,Indian&Mexican
+603325,Mint Surprise,16.82,Vitenamese
+886721,Smoked Peach & Vinegar Turkey,10.98,American Chinese
+902588,Grilled Basil & Clove Lamb,27.10,Korean
+266340,Breaded Peppermint Salmon,19.58,Japanese
+839486,Stir-Fried Sweet & Spicy Cockles,15.94,Mexican
+627406,Stir-Fried Easter-Style Spring Vegetables,16.64,American
+166554,Grilled Mushroom Potatoes,23.09,Chinese
+373497,Apple and Coconut Crispies,25.28,Indian&Mexican
+570290,Pecan and Cinnamon Pound Cake,15.46,Vitenamese
+537430,Milk Chocolate Yogurt,15.79,American Chinese
+440203,Avocado Wafer,11.98,Korean
+602736,Pickled Honey & Thyme Beef,11.16,Japanese
+378326,Thermal-Cooked Salt & Savory Rabbit,26.77,Mexican
+392414,Stir-Fried Souther-Style Frog,14.84,American
+704357,Breaded Fennel & Lemon Snapper,22.39,Chinese
+867147,Infused Dark Beer Risotto,22.86,Indian&Mexican
+106437,Simmered Butter Flatbread,22.51,Vitenamese
+218659,Pistachio and Grapefruit Pie,24.31,American Chinese
+132565,Almond and Cranberry Genoise,29.40,Korean
+269918,Plum Cobbler,28.39,Japanese
+392717,Chestnut Strudel,17.70,Mexican
+984498,Fried Cucumber & Chicken,15.93,American
+447895,Simmered Fennel Rabbit,19.70,Chinese
+906822,Poached Light Ale Shrimps,12.50,Indian&Mexican
+268408,Fried Blueberry Oysters,16.98,Vitenamese
+804034,Baked Creamy Stracciatella,19.56,American Chinese
+826276,Steamed Potatoes & Gratin,22.78,Korean
+848971,Mango and White Chocolate Crispies,19.07,Japanese
+485785,Chestnut and Mango Cobbler,11.79,Mexican
+254640,Lime Soufflé,19.78,American
+207898,Elderberry Pie,19.61,Chinese
+164316,Roasted Salt & Pepper Boar,25.68,Indian&Mexican
+685108,Oven-Baked Creamy Beef,13.46,Vitenamese
+340085,Broasted Beets & Lemon Oysters,29.38,American Chinese
+485858,Dried Vegetables & Salmon,17.91,Korean
+372526,Blanched Chestnuts & Linguine,13.52,Japanese
+432965,Poached Curry of Moussaka,23.93,Mexican
+485002,Almond and Coffee Strudel,16.16,American
+187996,Lime and Hazelnut Cookies,16.52,Chinese
+169154,Melon Ice Lollies,18.95,Indian&Mexican
+890432,Licorice Pavlova,13.28,Vitenamese
+189832,Fire-Grilled Sweet & Fresh Ostrich,19.20,American Chinese
+387492,Cooked Sour & Cream Yak,22.14,Korean
+389033,Stir-Fried Confit of Fish,28.71,Japanese
+693750,Breaded Fennel & Orange Herring,25.91,Mexican
+872620,Engine-Cooked Truffles & Salad,20.21,American
+490617,Barbecued Chestnuts & Forest Mushrooms,15.43,Chinese
+807149,Saffron and Praline Cake,11.61,Indian&Mexican
+831381,Blueberry and Mint Crumble,19.41,Vitenamese
+573549,Cocoa Custard,28.05,American Chinese
+512586,Cardamom Crumble,19.51,Korean
+579935,Simmered Pasta & Quail,25.03,Japanese
+571875,Dry-Roasted Salt & Savory Turkey,13.98,Mexican
+991976,Poached Pepper & Garlic Crab,10.69,American
+708540,Dried Vegetables & Shrimps,29.04,Chinese
+662152,Simmered Onions & Tomato Chutney,13.57,Indian&Mexican
+805069,Infused Garlic Winter Greens,11.31,Vitenamese
+158944,Peach and Coconut Yogurt,17.64,American Chinese
+446961,Apple and Hazelnut Pudding,17.57,Korean
+454360,Caramel Candy,17.32,Japanese
+699984,Ginger Toffee,26.80,Mexican
+597207,Slow-Cooked Onions & Tomato Pheasant,12.66,American
+259220,Dry-Roasted Soy Venison,13.96,Chinese
+847916,Oven-Baked Mushroom & Rosemary Cod,29.16,Indian&Mexican
+221263,Stewed Northern-Style Frog,26.49,Vitenamese
+161782,Fire-Grilled Blueberry & Mushroom Minestrone,12.76,American Chinese
+115302,Stir-Fried Pine Chutney,15.44,Korean
+181063,Date and Grape Toffee,25.73,Japanese
+343855,Grape and Red Wine Fudge,28.55,Mexican
+798807,Vanilla Toffee,25.72,American
+383862,Dark Chocolate Tart,20.40,Chinese
+486971,Tenderized Basil & Lime Yak,24.22,Indian&Mexican
+541867,Basted Garlic & Onion Horse,18.20,Vitenamese
+295019,Smoked Peas & Mushroom Scallops,17.88,American Chinese
+767366,Thermal-Cooked Lime & Ginger Prawns,23.84,Korean
+859966,Grilled Creamy Bread,20.49,Japanese
+304672,Fire-Roasted Oregano Rice,14.97,Mexican
+246981,Nutmeg and Pineapple Doughnut,22.90,American
+113174,Mandarin and Milk Chocolate Fudge,14.62,Chinese
+757882,Strawberry Gingerbread,15.98,Indian&Mexican
+165969,Cherry Soufflé,25.70,Vitenamese
+396136,Sautéed Carrot & Coriander Venison,14.77,American Chinese
+596828,Deep-Fried White Wine Pigeon,23.75,Korean
+319840,Pressure-Fried Ginger Salmon,22.77,Japanese
+148583,Tenderized Black Pepper Salmon,20.66,Mexican
+314371,Barbecued Truffles & Spring Greens,10.35,American
+556485,Brined Egg & Coconut Linguine,29.75,Chinese
+140199,Pecan and Coffee Toast,22.36,Indian&Mexican
+676295,Grape and Walnut Fruitcake,12.87,Vitenamese
+584011,Peach Soufflé,16.67,American Chinese
+963999,Papaya Delight,14.79,Korean
+898843,Fire-Grilled Dark Beer Mammoth,24.04,Japanese
+445753,Marinated Lime-Coated Ostrich,24.96,Mexican
+248181,Pan-Fried Garlic & Rosemary Cockles,25.51,American
+849013,Baked Oregano Prawns,29.72,Chinese
+921497,Simmered Fennel & Lime Calzone,12.66,Indian&Mexican
+422375,Oven-Grilled Hot & Sweet Forest Mushrooms,23.70,Vitenamese
+878012,Walnut and Lemon Bread,17.65,American Chinese
+819138,Cardamom and Mint Doughnut,26.51,Korean
+683796,Pistachio Roll,11.81,Japanese
+235155,Lemon Pie,25.47,Mexican
+213615,Oven-Baked Peanuts & Boar,16.91,American
+752170,Barbecued Salted Venison,29.28,Chinese
+115937,Pan-Fried Mushroom & Rosemary Clams,22.35,Indian&Mexican
+986872,Cured Cinnamon Mussels,23.41,Vitenamese
+946875,Oven-Baked Garlic & Ginger Spring Vegetables,15.67,American Chinese
+371545,Broasted Confit of Salad,24.88,Korean
+571088,Honey and Strawberry Jam,15.04,Japanese
+304378,Cherry and Pistachio Crispies,19.38,Mexican
+707298,Date Whip,24.65,American
+554562,Praline Ice Lollies,24.06,Chinese
+393652,Breaded Egg & Beans Pheasant,15.14,Indian&Mexican
+257384,Stir-Fried Stew of Beef,20.11,Vitenamese
+481066,Fried Light Ale Crab,19.69,American Chinese
+563563,Sautéed Saffron & Shallot Clams,13.29,Korean
+689721,Pressure-Fried Forest Roll,27.40,Japanese
+277071,Breaded White Wine Walnuts,28.64,Mexican
+708716,White Wine and Hazelnut Gingerbread,16.54,American
+765506,Hazelnut and Pineapple Fruit Salad,25.11,Chinese
+550405,Cherry Molten Cake,11.07,Indian&Mexican
+365291,Mint Surprise,28.99,Vitenamese
+149114,Smoked Peach & Vinegar Turkey,23.54,American Chinese
+853289,Grilled Basil & Clove Lamb,12.04,Korean
+155330,Breaded Peppermint Salmon,26.20,Japanese
+444529,Stir-Fried Sweet & Spicy Cockles,13.77,Mexican
+543269,Stir-Fried Easter-Style Spring Vegetables,28.58,American
+878080,Grilled Mushroom Potatoes,11.41,Chinese
+755952,Apple and Coconut Crispies,14.65,Indian&Mexican
+684285,Pecan and Cinnamon Pound Cake,20.31,Vitenamese
+756156,Milk Chocolate Yogurt,23.77,American Chinese
+517273,Avocado Wafer,10.12,Korean
+473609,Pickled Honey & Thyme Beef,13.42,Japanese
+163643,Thermal-Cooked Salt & Savory Rabbit,26.66,Mexican
+745601,Stir-Fried Souther-Style Frog,11.20,American
+536254,Breaded Fennel & Lemon Snapper,27.43,Chinese
+396071,Infused Dark Beer Risotto,19.02,Indian&Mexican
+358001,Simmered Butter Flatbread,14.71,Vitenamese
+211311,Pistachio and Grapefruit Pie,25.87,American Chinese
+944648,Almond and Cranberry Genoise,27.88,Korean
+685239,Plum Cobbler,24.46,Japanese
+847815,Chestnut Strudel,22.39,Mexican
+316368,Fried Cucumber & Chicken,13.04,American
+191693,Simmered Fennel Rabbit,22.47,Chinese
+664603,Poached Light Ale Shrimps,13.80,Indian&Mexican
+304809,Fried Blueberry Oysters,17.30,Vitenamese
+716777,Baked Creamy Stracciatella,14.25,American Chinese
+811432,Steamed Potatoes & Gratin,16.20,Korean
+819599,Mango and White Chocolate Crispies,29.82,Japanese
+645422,Chestnut and Mango Cobbler,28.86,Mexican
+377161,Lime Soufflé,26.26,American
+297665,Elderberry Pie,23.07,Chinese
+933027,Roasted Salt & Pepper Boar,26.97,Indian&Mexican
+285705,Oven-Baked Creamy Beef,14.93,Vitenamese
+849575,Broasted Beets & Lemon Oysters,20.50,American Chinese
+811759,Dried Vegetables & Salmon,29.35,Korean
+684637,Blanched Chestnuts & Linguine,29.65,Japanese
+985188,Poached Curry of Moussaka,21.72,Mexican
+850726,Almond and Coffee Strudel,23.88,American
+282775,Lime and Hazelnut Cookies,22.21,Chinese
+723155,Melon Ice Lollies,28.13,Indian&Mexican
+525982,Licorice Pavlova,11.67,Vitenamese
+636819,Deep-Fried Watercress Chicken,27.14,American Chinese
+186166,Braised Cheese & Mutton,22.51,Korean
+432219,Deep-Fried Easter-Style Prawns,12.32,Japanese
+470548,Shallow-Fried Sweet & Savory Crab,21.52,Mexican
+895001,Basted Tomatoes & Vegetables,21.75,American
+981893,Tenderized Sugar Vegetable Mix,26.23,Chinese
+116816,Coconut and Pistachio Cone,18.11,Indian&Mexican
+979977,White Wine and Guava Genoise,16.85,Vitenamese
+500382,Plum Pie,16.76,American Chinese
+725198,Coffee Gingerbread,11.25,Korean
+519280,Simmered Pasta & Rabbit,24.77,Japanese
+812997,Blanched Carrot & Coriander Quail,11.14,Mexican
+511048,Breaded Figs & Olive Clams,29.53,American
+103704,Stewed Olives & Mustard Prawns,19.89,Chinese
+499423,Dry-Roasted Pasta & Walnuts,14.41,Indian&Mexican
+667083,Poached Casserole of Pie,17.05,Vitenamese
+823922,White Wine and Kiwi Gingerbread,15.71,American Chinese
+212511,Raspberry and Cashew Surprise,28.60,Korean
+629777,Blueberry Pud,16.48,Japanese
+507780,Cherry Crispies,27.21,Mexican
+705597,Braised Sweet & Savory Bear,21.01,American
+512613,Braised Garlic Bear,18.13,Chinese
+380909,Infused Vinegar Cockles,10.50,Indian&Mexican
+151066,Tenderized Oregano Fish,24.94,Vitenamese
+333195,Dried Lime Spring Vegetables,15.99,American Chinese
+800008,Oven-Baked Carrots & Ginger Tofu,26.23,Korean
+739717,Walnut and Orange Mooncake,21.84,Japanese
+270916,Plum and Honey Strudel,25.91,Mexican
+185048,Coffee Cookies,18.09,American
+798907,Licorice Cheesecake,15.83,Chinese
+392684,Slow-Cooked Garlic & Tomato Mammoth,25.98,Indian&Mexican
+376375,Broasted Parsnip & Pear Pheasant,13.67,Vitenamese
+354833,Roasted Basil & Cinnamon Scallops,20.31,American Chinese
+867998,Marinated Mint & Berry Crocodile,19.42,Korean
+275345,Poached Lime & Ginger Linguine,22.22,Japanese
+380694,Tenderized Nuts & Linguine,23.77,Mexican
+601106,Caramel and Guava Trifle,18.46,American
+676970,Blueberry and White Chocolate Tart,16.66,Chinese
+145821,Chestnut Toast,13.84,Indian&Mexican
+713712,Pecan Cake,20.32,Vitenamese
+937789,Engine-Cooked Easter-Style Pheasant,16.85,American Chinese
+821838,Infused Vegetables & Duck,18.77,Korean
+806632,Tenderized Salty & Sour Alligator,13.41,Japanese
+255491,Stuffed Soy Mussels,12.82,Mexican
+301462,Simmered Cinnamon & Thyme Vegetables,24.31,American
+282830,Shallow-Fried Hot & Sweet Bake,26.37,Chinese
+654285,Guava and Cranberry Gingerbread,23.63,Indian&Mexican
+733721,Rum and Cherry Bonbons,19.50,Vitenamese
+354992,Lemon Bonbons,12.01,American Chinese
+674320,Pistachio Jam,15.87,Korean
+515633,Blanched White Wine Beef,11.51,Japanese
+438081,Fire-Roasted Blueberry Beef,10.70,Mexican
+880794,Sautéed Egg & Coconut Clams,16.23,American
+572158,Dried Dark Beer Lobster,26.73,Chinese
+457982,Basted Fennel & Lime Bisque,22.61,Indian&Mexican
+933844,Pan-Fried Jasmine Stuffed Bread,15.96,Vitenamese
+217196,Milk Chocolate and Melon Pancakes,26.31,American Chinese
+563970,Papaya and Pistachio Pound Cake,12.01,Korean
+862760,White Chocolate Pud,13.78,Japanese
+942596,Honey Toast,11.74,Mexican
+238808,Pan-Fried Saffron Mammoth,13.44,American
+991781,Marinated Basil & Clove Duck,16.18,Chinese
+554166,Broasted Vinegar Mussels,12.63,Indian&Mexican
+970108,Tea-Smoked Lime & Ginger Salmon,27.13,Vitenamese
+203054,Sautéed Vanilla & Mint Salad,28.44,American Chinese
+136456,Slow-Cooked Apricot & Basil Vegetable Mix,14.26,Korean
+873797,Avocado and Red Wine Jelly,20.13,Japanese
+391805,Caramel and Passion Fruit Steamed Pudding,10.66,Mexican
+239312,Kiwi Strudel,12.51,American
+195394,Peach Fruit Salad,12.83,Chinese
+135265,Cooked Soy Venison,12.25,Indian&Mexican
+481940,Oven-Grilled Peanuts & Pigeon,24.74,Vitenamese
+698698,Stir-Fried Western-Style Frog,12.86,American Chinese
+802255,Steamed Stew of Herring,22.46,Korean
+234144,Stewed Mustard Potato Wedges,24.34,Japanese
+175181,Thermal-Cooked Ginger Bread,13.17,Mexican
+763189,Plum and Milk Chocolate Delight,24.39,American
+138920,Walnut and Honey Tarte Tatin,28.65,Chinese
+922958,Gooseberry Doughnut,13.85,Indian&Mexican
+760583,Cinnamon Whip,11.31,Vitenamese
+482635,Pressure-Fried Pine Mutton,24.28,American Chinese
+168430,Shallow-Fried Sweet & Spicy Rabbit,27.85,Korean
+378128,Gentle-Fried Potatoes & Clams,13.96,Japanese
+693867,Slow-Cooked Peach & Vinegar Cod,11.26,Mexican
+993642,Stir-Fried Mushroom & Rosemary Chutney,25.56,American
+751336,Broasted Fennel & Lime Pasta,11.08,Chinese
+971822,Blueberry and Mint Fruit Salad,18.13,Indian&Mexican
+365509,Grape and Gooseberry Cookies,23.89,Vitenamese
+475731,Cocoa Crispies,12.64,American Chinese
+959846,Gooseberry Pancakes,29.09,Korean
+156258,Deep-Fried Dark Beer Beef,20.38,Japanese
+108663,Simmered Sweet & Spicy Bear,29.86,Mexican
+761315,Braised Tomatoes & Shrimps,21.78,American
+736186,Smoked Sweet & Spicy Alligator,14.80,Chinese
+389835,Smoked Thyme & Parsley Moussaka,11.29,Indian&Mexican
+535669,Cured Fennel & Garlic Bread,14.69,Vitenamese
+116226,White Chocolate and Banana Milk,20.52,American Chinese
+458676,Chocolate and Raspberry Yogurt,12.30,Korean
+818278,Pecan Waffles,27.30,Japanese
+140190,Cashew Whip,29.47,Mexican
+971187,Poached Lime & Ginger Yak,11.87,American
+654055,Cured Honey & Thyme Ostrich,25.60,Chinese
+593576,Dried Sweet & Fresh Crocodile,19.27,Indian&Mexican
+857473,Fried Cucumber & Lime Prawns,18.08,Vitenamese
+845277,Dried Easter-Style Lasagna,15.55,American Chinese
+623754,Marinated Mushroom Roll,24.59,Korean
+877213,Passion Fruit and Elderberry Ice Cream,13.90,Japanese
+877924,Chestnut and Honey Pie,12.13,Mexican
+245771,Honey Toffee,19.08,American
+506715,Strawberry Pud,27.50,Chinese
+497424,Sautéed Red Whine Boar,24.45,Indian&Mexican
+178217,Slow-Cooked Mushroom & Rosemary Ostrich,13.91,Vitenamese
+682227,Infused Paprika Snapper,10.97,American Chinese
+716315,Brined Dark Ale Frog,24.36,Korean
+375012,Gentle-Fried Apricots & Honey Pizza,10.78,Japanese
+735214,Baked Coriander & Lemon Walnuts,12.26,Mexican
+909108,Mint and Cashew Custard,24.22,American
+190552,Rum and Pecan Pie,15.14,Chinese
+174282,Grapefruit Waffles,22.41,Indian&Mexican
+819387,Mango Strudel,14.94,Vitenamese
+154306,Oven-Grilled Garlic & Onion Bear,16.72,American Chinese
+435584,Blanched Creamy Ostrich,12.93,Korean
+299062,Cured Souther-Style Fish,29.43,Japanese
+580461,Breaded Walnuts & Scallops,21.78,Mexican
+288557,Breaded Fennel & Lemon Rice,17.60,American
+777520,Fried Sour Risotto,26.67,Chinese
+727587,Orange and Licorice Cheesecake,25.94,Indian&Mexican
+546000,White Wine and Licorice Pound Cake,10.99,Vitenamese
+149370,Melon Bread,28.26,American Chinese
+873024,Rum Sundae,16.07,Korean
+348043,Basted Yogurt Boar,20.98,Japanese
+724860,Simmered Raspberry & Peanut Venison,16.29,Mexican
+300879,Pressure-Cooked Creamy Crocodile,11.93,American
+687798,Seared Apples & Mustard Prawns,13.04,Chinese
+716898,Engine-Cooked Creamy Risotto,17.52,Indian&Mexican
+731125,Oven-Baked Basil & Clove Winter Vegetables,11.90,Vitenamese
+298198,Rum and Grapefruit Pudding,21.18,American Chinese
+203974,Pecan and White Chocolate Fruitcake,18.81,Korean
+469181,Walnut Cone,29.83,Japanese
+909337,Cranberry Jelly,13.88,Mexican
+723919,Blanched Fennel & Lemon Pheasant,19.98,American
+107014,Roasted Cinnamon Horse,26.80,Chinese
+937169,Broasted Saffron Clams,26.52,Indian&Mexican
+126747,Simmered Vegetables & Lobster,28.76,Vitenamese
+945506,Poached Peanuts & Stracciatella,27.76,American Chinese
+277621,Pan-Fried Raspberry & Peanut Bisque,17.57,Korean
+304665,Mint and Pecan Snacks,20.41,Japanese
+774580,Coconut and Lime Buns,29.09,Mexican
+591801,Cashew Toffee,11.41,American
+583015,Dark Chocolate Molten Cake,12.52,Chinese
+768930,Basted Mint & Mustard Yak,23.71,Indian&Mexican
+601985,Barbecued Sweet & Spicy Pork,15.48,Vitenamese
+415812,Engine-Cooked Fennel & Orange Lobster,13.12,American Chinese
+875433,Stewed Apricot & Basil Shrimps,14.03,Korean
+254671,Cured Basil & Mint Bake,19.81,Japanese
+124204,Pressure-Cooked Chestnuts & Pasta,16.21,Mexican
+652072,Banana and Passion Fruit Pound Cake,24.44,American
+549997,Cinnamon and Coconut Cookies,19.39,Chinese
+636146,Nutmeg Tarte Tatin,12.74,Indian&Mexican
+752161,Vanilla Cobbler,11.06,Vitenamese
+974154,Braised Lime-Coated Boar,15.43,American Chinese
+905862,Baked Blueberry Ostrich,23.83,Korean
+961000,Seared Hot & Sweet Tuna,29.39,Japanese
+754382,Oven-Baked Tomatoes & Scallops,27.43,Mexican
+617166,Deep-Fried Mustard & Thyme Gratin,12.70,American
+980087,Baked Confit of Minestrone,29.89,Chinese
+406050,Coffee and Mango Tarte Tatin,14.21,Indian&Mexican
+919509,Grapefruit and Ginger Pie,29.61,Vitenamese
+791597,Coconut Delight,11.35,American Chinese
+138106,Cranberry Pancakes,20.61,Korean
+853582,Fire-Grilled Sweet & Fresh Ostrich,25.26,Japanese
+219500,Cooked Sour & Cream Yak,12.76,Mexican
+695102,Stir-Fried Confit of Fish,25.13,American
+565844,Breaded Fennel & Orange Herring,23.68,Chinese
+318577,Engine-Cooked Truffles & Salad,23.14,Indian&Mexican
+179368,Barbecued Chestnuts & Forest Mushrooms,29.21,Vitenamese
+451091,Saffron and Praline Cake,10.62,American Chinese
+502031,Blueberry and Mint Crumble,10.94,Korean
+845244,Cocoa Custard,17.77,Japanese
+826261,Cardamom Crumble,14.90,Mexican
+403372,Simmered Pasta & Quail,17.06,American
+788065,Dry-Roasted Salt & Savory Turkey,28.98,Chinese
+990951,Poached Pepper & Garlic Crab,25.42,Indian&Mexican
+777112,Dried Vegetables & Shrimps,17.45,Vitenamese
+605118,Simmered Onions & Tomato Chutney,28.54,American Chinese
+346185,Infused Garlic Winter Greens,12.59,Korean
+365085,Peach and Coconut Yogurt,12.28,Japanese
+441212,Apple and Hazelnut Pudding,28.26,Mexican
+515329,Caramel Candy,23.62,American
+193170,Ginger Toffee,13.76,Chinese
+961312,Slow-Cooked Onions & Tomato Pheasant,15.77,Indian&Mexican
+534162,Dry-Roasted Soy Venison,18.64,Vitenamese
+296999,Oven-Baked Mushroom & Rosemary Cod,27.68,American Chinese
+627757,Stewed Northern-Style Frog,24.17,Korean
+795408,Fire-Grilled Blueberry & Mushroom Minestrone,29.06,Japanese
+984636,Stir-Fried Pine Chutney,21.55,Mexican
+559064,Date and Grape Toffee,12.99,American
+315093,Grape and Red Wine Fudge,27.29,Chinese
+133692,Vanilla Toffee,14.16,Indian&Mexican
+337630,Dark Chocolate Tart,17.57,Vitenamese
+709634,Tenderized Basil & Lime Yak,11.61,American Chinese
+639841,Basted Garlic & Onion Horse,21.55,Korean
+519839,Smoked Peas & Mushroom Scallops,10.56,Japanese
+615907,Thermal-Cooked Lime & Ginger Prawns,12.55,Mexican
+663306,Grilled Creamy Bread,19.88,American
+126499,Fire-Roasted Oregano Rice,11.91,Chinese
+173885,Nutmeg and Pineapple Doughnut,20.99,Indian&Mexican
+287105,Mandarin and Milk Chocolate Fudge,27.20,Vitenamese
+879711,Strawberry Gingerbread,14.80,American Chinese
+611325,Cherry Soufflé,11.79,Korean
+904130,Sautéed Carrot & Coriander Venison,16.30,Japanese
+388934,Deep-Fried White Wine Pigeon,29.31,Mexican
+126647,Pressure-Fried Ginger Salmon,14.93,American
+895990,Tenderized Black Pepper Salmon,25.41,Chinese
+772441,Barbecued Truffles & Spring Greens,24.10,Indian&Mexican
+159842,Brined Egg & Coconut Linguine,23.70,Vitenamese
+598673,Pecan and Coffee Toast,11.27,American Chinese
+926986,Grape and Walnut Fruitcake,24.62,Korean
+645607,Peach Soufflé,11.56,Japanese
+282994,Papaya Delight,16.44,Mexican
+995462,Fire-Grilled Dark Beer Mammoth,26.80,American
+797141,Marinated Lime-Coated Ostrich,13.98,Chinese
+902554,Pan-Fried Garlic & Rosemary Cockles,23.99,Indian&Mexican
+246845,Baked Oregano Prawns,10.11,Vitenamese
+903241,Simmered Fennel & Lime Calzone,29.35,American Chinese
+672805,Oven-Grilled Hot & Sweet Forest Mushrooms,27.70,Korean
+679507,Walnut and Lemon Bread,17.48,Japanese
+154716,Cardamom and Mint Doughnut,26.64,Mexican
+816154,Pistachio Roll,23.76,American
+373128,Lemon Pie,14.59,Chinese
+175389,Oven-Baked Peanuts & Boar,12.36,Indian&Mexican
+696293,Barbecued Salted Venison,22.28,Vitenamese
+187219,Pan-Fried Mushroom & Rosemary Clams,17.97,American Chinese
+627634,Cured Cinnamon Mussels,13.45,Korean
+679564,Oven-Baked Garlic & Ginger Spring Vegetables,16.96,Japanese
+412253,Broasted Confit of Salad,21.49,Mexican
+380229,Honey and Strawberry Jam,15.74,American
+478310,Cherry and Pistachio Crispies,20.07,Chinese
+589720,Date Whip,28.92,Indian&Mexican
+816996,Praline Ice Lollies,15.09,Vitenamese
+791705,Breaded Egg & Beans Pheasant,11.60,American Chinese
+987256,Stir-Fried Stew of Beef,13.44,Korean
+997007,Fried Light Ale Crab,24.32,Japanese
+795794,Sautéed Saffron & Shallot Clams,10.32,Mexican
+136144,Pressure-Fried Forest Roll,28.09,American
+145732,Breaded White Wine Walnuts,25.84,Chinese
+569389,White Wine and Hazelnut Gingerbread,17.90,Indian&Mexican
+219955,Hazelnut and Pineapple Fruit Salad,28.95,Vitenamese
+741553,Cherry Molten Cake,24.41,American Chinese
+783574,Mint Surprise,21.33,Korean
+839876,Smoked Peach & Vinegar Turkey,26.49,Japanese
+147505,Grilled Basil & Clove Lamb,20.43,Mexican
+455333,Breaded Peppermint Salmon,10.76,American
+581234,Stir-Fried Sweet & Spicy Cockles,14.25,Chinese
+602517,Stir-Fried Easter-Style Spring Vegetables,17.45,Indian&Mexican
+915143,Grilled Mushroom Potatoes,29.68,Vitenamese
+930809,Apple and Coconut Crispies,12.40,American Chinese
+238902,Pecan and Cinnamon Pound Cake,20.56,Korean
+187879,Milk Chocolate Yogurt,14.96,Japanese
+333621,Avocado Wafer,18.00,Mexican
+627690,Pickled Honey & Thyme Beef,14.50,American
+737124,Thermal-Cooked Salt & Savory Rabbit,29.57,Chinese
+577647,Stir-Fried Souther-Style Frog,15.67,Indian&Mexican
+195705,Breaded Fennel & Lemon Snapper,22.15,Vitenamese
+120071,Infused Dark Beer Risotto,17.02,American Chinese
+144056,Simmered Butter Flatbread,29.97,Korean
+661907,Pistachio and Grapefruit Pie,25.02,Japanese
+472945,Almond and Cranberry Genoise,13.14,Mexican
+981896,Plum Cobbler,28.58,American
+325129,Chestnut Strudel,23.93,Chinese
+932372,Fried Cucumber & Chicken,21.26,Indian&Mexican
+651648,Simmered Fennel Rabbit,18.83,Vitenamese
+751156,Poached Light Ale Shrimps,13.83,American Chinese
+963194,Fried Blueberry Oysters,14.39,Korean
+556830,Baked Creamy Stracciatella,11.76,Japanese
+952534,Steamed Potatoes & Gratin,11.81,Mexican
+141763,Mango and White Chocolate Crispies,24.40,American
+419251,Chestnut and Mango Cobbler,27.79,Chinese
+891194,Lime Soufflé,21.52,Indian&Mexican
+572006,Elderberry Pie,11.74,Vitenamese
+839363,Roasted Salt & Pepper Boar,16.70,American Chinese
+417534,Oven-Baked Creamy Beef,10.87,Korean
+828553,Broasted Beets & Lemon Oysters,17.35,Japanese
+564679,Dried Vegetables & Salmon,28.78,Mexican
+309668,Blanched Chestnuts & Linguine,17.50,American
+893331,Poached Curry of Moussaka,13.88,Chinese
+443301,Almond and Coffee Strudel,10.11,Indian&Mexican
+486712,Lime and Hazelnut Cookies,27.64,Vitenamese
+594847,Melon Ice Lollies,21.03,American Chinese
+285432,Licorice Pavlova,27.99,Korean
+690729,Fire-Grilled Sweet & Fresh Ostrich,12.88,Japanese
+407024,Cooked Sour & Cream Yak,29.58,Mexican
+868277,Stir-Fried Confit of Fish,20.54,American
+990458,Breaded Fennel & Orange Herring,13.20,Chinese
+843637,Engine-Cooked Truffles & Salad,12.84,Indian&Mexican
+718011,Barbecued Chestnuts & Forest Mushrooms,14.41,Vitenamese
+300158,Saffron and Praline Cake,28.19,American Chinese
+187181,Blueberry and Mint Crumble,15.60,Korean
+776244,Cocoa Custard,15.61,Japanese
+948394,Cardamom Crumble,19.15,Mexican
+826354,Simmered Pasta & Quail,29.29,American
+765343,Dry-Roasted Salt & Savory Turkey,21.10,Chinese
+480148,Poached Pepper & Garlic Crab,23.65,Indian&Mexican
+738706,Dried Vegetables & Shrimps,21.70,Vitenamese
+411827,Simmered Onions & Tomato Chutney,15.73,American Chinese
+386784,Infused Garlic Winter Greens,21.67,Korean
+914695,Peach and Coconut Yogurt,26.57,Japanese
+517916,Apple and Hazelnut Pudding,28.90,Mexican
+756282,Caramel Candy,22.38,American
+173610,Ginger Toffee,26.91,Chinese
+552563,Slow-Cooked Onions & Tomato Pheasant,19.05,Indian&Mexican
+789182,Dry-Roasted Soy Venison,23.05,Vitenamese
+853481,Oven-Baked Mushroom & Rosemary Cod,21.32,American Chinese
+856788,Stewed Northern-Style Frog,24.90,Korean
+411074,Fire-Grilled Blueberry & Mushroom Minestrone,13.00,Japanese
+904256,Stir-Fried Pine Chutney,11.06,Mexican
+103846,Date and Grape Toffee,24.44,American
+948834,Grape and Red Wine Fudge,13.99,Chinese
+141348,Vanilla Toffee,16.40,Indian&Mexican
+473490,Dark Chocolate Tart,13.40,Vitenamese
+488974,Tenderized Basil & Lime Yak,14.32,American Chinese
+259200,Basted Garlic & Onion Horse,21.32,Korean
+405635,Smoked Peas & Mushroom Scallops,15.88,Japanese
+829211,Thermal-Cooked Lime & Ginger Prawns,27.94,Mexican
+404461,Grilled Creamy Bread,15.30,American
+437258,Fire-Roasted Oregano Rice,10.49,Chinese
+705714,Nutmeg and Pineapple Doughnut,17.82,Indian&Mexican
+202730,Mandarin and Milk Chocolate Fudge,11.36,Vitenamese
+911431,Strawberry Gingerbread,17.78,American Chinese
+222392,Cherry Soufflé,17.96,Korean
+640365,Sautéed Carrot & Coriander Venison,10.89,Japanese
+609107,Deep-Fried White Wine Pigeon,19.70,Mexican
+566096,Pressure-Fried Ginger Salmon,13.24,American
+927546,Tenderized Black Pepper Salmon,28.33,Chinese
+182524,Barbecued Truffles & Spring Greens,13.59,Indian&Mexican
+218354,Brined Egg & Coconut Linguine,14.43,Vitenamese
+452256,Pecan and Coffee Toast,12.08,American Chinese
+246323,Grape and Walnut Fruitcake,28.99,Korean
+258105,Peach Soufflé,10.78,Japanese
+663591,Papaya Delight,28.89,Mexican
+622611,Fire-Grilled Dark Beer Mammoth,18.37,American
+528826,Marinated Lime-Coated Ostrich,17.89,Chinese
+259089,Pan-Fried Garlic & Rosemary Cockles,19.97,Indian&Mexican
+275911,Baked Oregano Prawns,10.09,Vitenamese
+754023,Simmered Fennel & Lime Calzone,23.45,American Chinese
+434772,Oven-Grilled Hot & Sweet Forest Mushrooms,24.33,Korean
+756842,Walnut and Lemon Bread,10.45,Japanese
+699798,Cardamom and Mint Doughnut,24.75,Mexican
+707338,Pistachio Roll,12.76,American
+532547,Lemon Pie,17.79,Chinese
+668158,Oven-Baked Peanuts & Boar,10.45,Indian&Mexican
+365193,Barbecued Salted Venison,10.37,Vitenamese
+233707,Pan-Fried Mushroom & Rosemary Clams,21.51,American Chinese
+894792,Cured Cinnamon Mussels,25.65,Korean
+819436,Oven-Baked Garlic & Ginger Spring Vegetables,24.90,Japanese
+474159,Broasted Confit of Salad,17.43,Mexican
+626297,Honey and Strawberry Jam,19.74,American
+879166,Cherry and Pistachio Crispies,28.77,Chinese
+833200,Date Whip,18.34,Indian&Mexican
+770004,Praline Ice Lollies,29.03,Vitenamese
+750496,Breaded Egg & Beans Pheasant,13.03,American Chinese
+307906,Stir-Fried Stew of Beef,10.28,Korean
+471275,Fried Light Ale Crab,22.28,Japanese
+664936,Sautéed Saffron & Shallot Clams,19.91,Mexican
+104342,Pressure-Fried Forest Roll,21.66,American
+628051,Breaded White Wine Walnuts,10.75,Chinese
+309508,White Wine and Hazelnut Gingerbread,21.47,Indian&Mexican
+984150,Hazelnut and Pineapple Fruit Salad,19.01,Vitenamese
+430553,Cherry Molten Cake,21.43,American Chinese
+631132,Mint Surprise,20.77,Korean
+108121,Smoked Peach & Vinegar Turkey,19.51,Japanese
+303737,Grilled Basil & Clove Lamb,21.54,Mexican
+153370,Breaded Peppermint Salmon,26.42,American
+296977,Stir-Fried Sweet & Spicy Cockles,27.23,Chinese
+186412,Stir-Fried Easter-Style Spring Vegetables,28.09,Indian&Mexican
+658418,Grilled Mushroom Potatoes,12.62,Vitenamese
+731612,Apple and Coconut Crispies,20.28,American Chinese
+177562,Pecan and Cinnamon Pound Cake,15.50,Korean
+277427,Milk Chocolate Yogurt,14.11,Japanese
+186754,Avocado Wafer,24.85,Mexican
+853389,Pickled Honey & Thyme Beef,27.32,American
+694395,Thermal-Cooked Salt & Savory Rabbit,28.00,Chinese
+613890,Stir-Fried Souther-Style Frog,12.11,Indian&Mexican
+404498,Breaded Fennel & Lemon Snapper,10.69,Vitenamese
+837524,Infused Dark Beer Risotto,18.56,American Chinese
+359184,Simmered Butter Flatbread,22.15,Korean
+862591,Pistachio and Grapefruit Pie,28.30,Japanese
+593701,Almond and Cranberry Genoise,20.55,Mexican
+499674,Plum Cobbler,20.48,American
+480811,Chestnut Strudel,18.43,Chinese
+954649,Fried Cucumber & Chicken,23.73,Indian&Mexican
+855051,Simmered Fennel Rabbit,21.38,Vitenamese
+946452,Poached Light Ale Shrimps,27.45,American Chinese
+670587,Fried Blueberry Oysters,15.32,Korean
+675611,Baked Creamy Stracciatella,19.50,Japanese
+776255,Steamed Potatoes & Gratin,15.16,Mexican
+311655,Mango and White Chocolate Crispies,17.22,American
+455396,Chestnut and Mango Cobbler,19.70,Chinese
+130234,Lime Soufflé,12.65,Indian&Mexican
+567847,Elderberry Pie,17.16,Vitenamese
+631315,Roasted Salt & Pepper Boar,19.67,American Chinese
+338246,Oven-Baked Creamy Beef,24.92,Korean
+627274,Broasted Beets & Lemon Oysters,20.21,Japanese
+897298,Dried Vegetables & Salmon,29.36,Mexican
+780186,Blanched Chestnuts & Linguine,13.91,American
+151683,Poached Curry of Moussaka,20.07,Chinese
+458930,Almond and Coffee Strudel,19.11,Indian&Mexican
+457676,Broasted Beets & Lemon Oysters,19.73,Vitenamese
+982604,Dried Vegetables & Salmon,15.08,American Chinese
+705221,Blanched Chestnuts & Linguine,16.16,Korean
+990281,Poached Curry of Moussaka,17.28,Japanese
+458281,Almond and Coffee Strudel,28.64,Mexican
+489393,Lime and Hazelnut Cookies,26.29,American
+394432,Melon Ice Lollies,18.65,Chinese
+922933,Licorice Pavlova,29.22,Indian&Mexican
+650281,Deep-Fried Watercress Chicken,15.77,Vitenamese
+854067,Braised Cheese & Mutton,18.05,American Chinese
+629739,Deep-Fried Easter-Style Prawns,19.93,Korean
+425527,Shallow-Fried Sweet & Savory Crab,21.80,Japanese
+902305,Basted Tomatoes & Vegetables,22.23,Mexican
+192766,Tenderized Sugar Vegetable Mix,13.82,American
+102532,Coconut and Pistachio Cone,13.77,Chinese
+428930,White Wine and Guava Genoise,14.52,Indian&Mexican
+735632,Plum Pie,27.70,Vitenamese
+813367,Coffee Gingerbread,22.43,American Chinese
+890613,Simmered Pasta & Rabbit,15.51,Korean
+236844,Blanched Carrot & Coriander Quail,28.70,Japanese
+251209,Breaded Figs & Olive Clams,11.39,Mexican
+182060,Stewed Olives & Mustard Prawns,22.74,American
+174484,Dry-Roasted Pasta & Walnuts,15.74,Chinese
+577873,Poached Casserole of Pie,21.76,Indian&Mexican
+566586,White Wine and Kiwi Gingerbread,28.01,Vitenamese
+762865,Raspberry and Cashew Surprise,19.59,American Chinese
+427577,Blueberry Pud,18.35,Korean
+301911,Cherry Crispies,15.48,Japanese
+335132,Braised Sweet & Savory Bear,17.66,Mexican
+159699,Braised Garlic Bear,13.85,American
+745802,Infused Vinegar Cockles,26.03,Chinese
+466838,Tenderized Oregano Fish,17.96,Indian&Mexican
+707346,Dried Lime Spring Vegetables,17.09,Vitenamese
+632074,Oven-Baked Carrots & Ginger Tofu,29.06,American Chinese
+436450,Walnut and Orange Mooncake,19.62,Korean
+317739,Plum and Honey Strudel,22.00,Japanese
+523423,Coffee Cookies,25.72,Mexican
+520957,Licorice Cheesecake,13.96,American
+260028,Slow-Cooked Garlic & Tomato Mammoth,11.19,Chinese
+125217,Broasted Parsnip & Pear Pheasant,14.43,Indian&Mexican
+743892,Roasted Basil & Cinnamon Scallops,16.27,Vitenamese
+890173,Marinated Mint & Berry Crocodile,17.41,American Chinese
+199471,Poached Lime & Ginger Linguine,23.57,Korean
+189199,Tenderized Nuts & Linguine,28.15,Japanese
+525460,Caramel and Guava Trifle,25.95,Mexican
+924006,Blueberry and White Chocolate Tart,12.17,American
+211478,Chestnut Toast,19.22,Chinese
+716482,Pecan Cake,24.19,Indian&Mexican
+746791,Engine-Cooked Easter-Style Pheasant,17.67,Vitenamese
+352550,Infused Vegetables & Duck,20.80,American Chinese
+684645,Tenderized Salty & Sour Alligator,18.94,Korean
+995723,Stuffed Soy Mussels,11.38,Japanese
+441145,Simmered Cinnamon & Thyme Vegetables,22.74,Mexican
+614262,Shallow-Fried Hot & Sweet Bake,23.02,American
+263582,Guava and Cranberry Gingerbread,22.95,Chinese
+387706,Rum and Cherry Bonbons,24.43,Indian&Mexican
+360636,Lemon Bonbons,12.93,Vitenamese
+227175,Pistachio Jam,23.68,American Chinese
+570331,Blanched White Wine Beef,14.54,Korean
+590151,Fire-Roasted Blueberry Beef,24.38,Japanese
+396954,Sautéed Egg & Coconut Clams,10.98,Mexican
+656881,Dried Dark Beer Lobster,16.10,American
+671151,Basted Fennel & Lime Bisque,21.45,Chinese
+875120,Pan-Fried Jasmine Stuffed Bread,28.64,Indian&Mexican
+109522,Milk Chocolate and Melon Pancakes,27.13,Vitenamese
+699391,Papaya and Pistachio Pound Cake,26.02,American Chinese
+340339,White Chocolate Pud,22.20,Korean
+473730,Honey Toast,13.55,Japanese
+416507,Pan-Fried Saffron Mammoth,22.36,Mexican
+978280,Marinated Basil & Clove Duck,29.46,American
+503117,Broasted Vinegar Mussels,10.48,Chinese
+804652,Tea-Smoked Lime & Ginger Salmon,26.67,Indian&Mexican
+562222,Sautéed Vanilla & Mint Salad,29.74,Vitenamese
+309723,Slow-Cooked Apricot & Basil Vegetable Mix,17.90,American Chinese
+563481,Avocado and Red Wine Jelly,25.31,Korean
+840691,Caramel and Passion Fruit Steamed Pudding,20.53,Japanese
+665545,Kiwi Strudel,11.60,Mexican
+230957,Peach Fruit Salad,24.92,American
+152390,Cooked Soy Venison,13.77,Chinese
+294021,Oven-Grilled Peanuts & Pigeon,25.68,Indian&Mexican
+339926,Stir-Fried Western-Style Frog,17.89,Vitenamese
+715473,Steamed Stew of Herring,15.02,American Chinese
+563871,Stewed Mustard Potato Wedges,23.42,Korean
+792239,Thermal-Cooked Ginger Bread,25.32,Japanese
+204539,Plum and Milk Chocolate Delight,20.77,Mexican
+931569,Walnut and Honey Tarte Tatin,13.14,American
+945886,Gooseberry Doughnut,28.93,Chinese
+489397,Cinnamon Whip,24.41,Indian&Mexican
+827421,Pressure-Fried Pine Mutton,26.64,Vitenamese
+326554,Shallow-Fried Sweet & Spicy Rabbit,20.95,American Chinese
+858348,Gentle-Fried Potatoes & Clams,22.32,Korean
+362195,Slow-Cooked Peach & Vinegar Cod,17.80,Japanese
+573013,Stir-Fried Mushroom & Rosemary Chutney,23.39,Mexican
+949479,Broasted Fennel & Lime Pasta,24.60,American
+670937,Blueberry and Mint Fruit Salad,27.13,Chinese
+884440,Grape and Gooseberry Cookies,21.82,Indian&Mexican
+130531,Cocoa Crispies,20.67,Vitenamese
+817880,Gooseberry Pancakes,13.86,American Chinese
+168099,Deep-Fried Dark Beer Beef,19.10,Korean
+320274,Simmered Sweet & Spicy Bear,13.97,Japanese
+599978,Braised Tomatoes & Shrimps,29.07,Mexican
+596879,Smoked Sweet & Spicy Alligator,17.95,American
+790339,Smoked Thyme & Parsley Moussaka,10.26,Chinese
+258576,Cured Fennel & Garlic Bread,23.29,Indian&Mexican
+894110,White Chocolate and Banana Milk,26.96,Vitenamese
+887686,Chocolate and Raspberry Yogurt,29.56,American Chinese
+921916,Pecan Waffles,17.30,Korean
+521256,Cashew Whip,28.67,Japanese
+695386,Poached Lime & Ginger Yak,25.57,Mexican
+792838,Cured Honey & Thyme Ostrich,21.29,American
+356161,Dried Sweet & Fresh Crocodile,14.22,Chinese
+455259,Fried Cucumber & Lime Prawns,27.58,Indian&Mexican
+854015,Dried Easter-Style Lasagna,20.29,Vitenamese
+591112,Marinated Mushroom Roll,21.19,American Chinese
+609188,Passion Fruit and Elderberry Ice Cream,16.48,Korean
+771111,Chestnut and Honey Pie,27.74,Japanese
+967278,Honey Toffee,14.92,Mexican
+387366,Strawberry Pud,13.11,American
+119744,Sautéed Red Whine Boar,25.88,Chinese
+215523,Slow-Cooked Mushroom & Rosemary Ostrich,23.09,Indian&Mexican
+800945,Infused Paprika Snapper,18.42,Vitenamese
+705680,Brined Dark Ale Frog,25.70,American Chinese
+109808,Gentle-Fried Apricots & Honey Pizza,16.95,Korean
+364021,Baked Coriander & Lemon Walnuts,26.18,Japanese
+280148,Mint and Cashew Custard,26.95,Mexican
+910093,Rum and Pecan Pie,22.42,American
+777840,Grapefruit Waffles,21.14,Chinese
+416243,Mango Strudel,12.22,Indian&Mexican
+827180,Oven-Grilled Garlic & Onion Bear,19.22,Vitenamese
+938733,Blanched Creamy Ostrich,22.02,American Chinese
+423066,Cured Souther-Style Fish,13.00,Korean
+158928,Breaded Walnuts & Scallops,19.40,Japanese
+774553,Breaded Fennel & Lemon Rice,27.26,Mexican
+539967,Fried Sour Risotto,24.18,American
+919605,Orange and Licorice Cheesecake,30.00,Chinese
+160859,White Wine and Licorice Pound Cake,11.38,Indian&Mexican
+635363,Melon Bread,19.31,Vitenamese
+539857,Rum Sundae,28.07,American Chinese
+261012,Basted Yogurt Boar,21.00,Korean
+887363,Simmered Raspberry & Peanut Venison,26.25,Japanese
+835566,Pressure-Cooked Creamy Crocodile,20.63,Mexican
+165641,Seared Apples & Mustard Prawns,23.35,American
+153401,Engine-Cooked Creamy Risotto,18.92,Chinese
+370901,Oven-Baked Basil & Clove Winter Vegetables,25.78,Indian&Mexican
+850205,Rum and Grapefruit Pudding,25.36,Vitenamese
+566758,Pecan and White Chocolate Fruitcake,13.57,American Chinese
+884944,Walnut Cone,14.14,Korean
+612304,Cranberry Jelly,21.50,Japanese
+932640,Blanched Fennel & Lemon Pheasant,16.79,Mexican
+315455,Roasted Cinnamon Horse,11.71,American
+151919,Broasted Saffron Clams,10.90,Chinese
+659334,Simmered Vegetables & Lobster,25.02,Indian&Mexican
+356804,Poached Peanuts & Stracciatella,19.38,Vitenamese
+190816,Pan-Fried Raspberry & Peanut Bisque,12.29,American Chinese
+959253,Mint and Pecan Snacks,15.32,Korean
+778631,Coconut and Lime Buns,29.49,Japanese
+151482,Cashew Toffee,28.13,Mexican
+394543,Dark Chocolate Molten Cake,26.87,American
+324898,Basted Mint & Mustard Yak,17.41,Chinese
+589324,Barbecued Sweet & Spicy Pork,14.78,Indian&Mexican
+530775,Engine-Cooked Fennel & Orange Lobster,17.42,Vitenamese
+620133,Stewed Apricot & Basil Shrimps,14.90,American Chinese
+887494,Cured Basil & Mint Bake,15.36,Korean
+112799,Pressure-Cooked Chestnuts & Pasta,29.52,Japanese
+517366,Banana and Passion Fruit Pound Cake,11.60,Mexican
+314463,Cinnamon and Coconut Cookies,16.42,American
+342631,Nutmeg Tarte Tatin,24.32,Chinese
+896414,Vanilla Cobbler,14.97,Indian&Mexican
+645891,Braised Lime-Coated Boar,28.13,Vitenamese
+938921,Baked Blueberry Ostrich,15.09,American Chinese
+324205,Seared Hot & Sweet Tuna,18.66,Korean
+185804,Oven-Baked Tomatoes & Scallops,24.16,Japanese
+967189,Deep-Fried Mustard & Thyme Gratin,27.22,Mexican
+446245,Baked Confit of Minestrone,24.17,American
+681845,Coffee and Mango Tarte Tatin,16.73,Chinese
+629924,Grapefruit and Ginger Pie,14.13,Indian&Mexican
+599565,Coconut Delight,16.02,Vitenamese
+418031,Cranberry Pancakes,14.59,American Chinese
+231530,Fire-Grilled Sweet & Fresh Ostrich,16.37,Korean
+439521,Cooked Sour & Cream Yak,25.13,Japanese
+864862,Stir-Fried Confit of Fish,24.73,Mexican
+426729,Breaded Fennel & Orange Herring,14.08,American
+345715,Engine-Cooked Truffles & Salad,11.99,Chinese
+467010,Barbecued Chestnuts & Forest Mushrooms,25.46,Indian&Mexican
+490715,Saffron and Praline Cake,29.79,Vitenamese
+938489,Blueberry and Mint Crumble,24.07,American Chinese
+321168,Cocoa Custard,13.57,Korean
+290156,Breaded Peppermint Salmon,16.00,Japanese
+204493,Stir-Fried Sweet & Spicy Cockles,27.63,Mexican
+771825,Stir-Fried Easter-Style Spring Vegetables,22.47,American
+605422,Grilled Mushroom Potatoes,20.84,Chinese
+911761,Apple and Coconut Crispies,18.86,Indian&Mexican
+602594,Pecan and Cinnamon Pound Cake,25.53,Vitenamese
+954595,Milk Chocolate Yogurt,24.49,American Chinese
+976390,Avocado Wafer,13.33,Korean
+413245,Pickled Honey & Thyme Beef,15.64,Japanese
+778246,Thermal-Cooked Salt & Savory Rabbit,28.04,Mexican
+801426,Stir-Fried Souther-Style Frog,13.42,American
+172423,Breaded Fennel & Lemon Snapper,27.63,Chinese
+434043,Infused Dark Beer Risotto,25.32,Indian&Mexican
+449827,Simmered Butter Flatbread,10.39,Vitenamese
+484026,Pistachio and Grapefruit Pie,14.02,American Chinese
+910709,Almond and Cranberry Genoise,20.13,Korean
+489650,Plum Cobbler,13.10,Japanese
+790855,Chestnut Strudel,20.80,Mexican
+593976,Fried Cucumber & Chicken,22.69,American
+390214,Simmered Fennel Rabbit,23.57,Chinese
+175084,Poached Light Ale Shrimps,28.60,Indian&Mexican
+178013,Fried Blueberry Oysters,25.39,Vitenamese
+225909,Baked Creamy Stracciatella,23.78,American Chinese
+497127,Steamed Potatoes & Gratin,16.67,Korean
+470380,Mango and White Chocolate Crispies,22.80,Japanese
+242491,Chestnut and Mango Cobbler,21.31,Mexican
+830128,Lime Soufflé,28.21,American
+764210,Elderberry Pie,21.04,Chinese
+318199,Roasted Salt & Pepper Boar,20.61,Indian&Mexican
+954749,Oven-Baked Creamy Beef,17.31,Vitenamese
+140623,Broasted Beets & Lemon Oysters,23.43,American Chinese
+367094,Dried Vegetables & Salmon,14.57,Korean
+640090,Blanched Chestnuts & Linguine,21.20,Japanese
+781514,Poached Curry of Moussaka,25.09,Mexican
+286749,Almond and Coffee Strudel,25.72,American
+420025,Broasted Beets & Lemon Oysters,14.80,Chinese
+433657,Dried Vegetables & Salmon,18.02,Indian&Mexican
+801989,Blanched Chestnuts & Linguine,22.47,Vitenamese
+742833,Poached Curry of Moussaka,16.02,American Chinese
+703269,Almond and Coffee Strudel,21.25,Korean
+620653,Lime and Hazelnut Cookies,29.10,Japanese
+838567,Melon Ice Lollies,18.57,Mexican
+241167,Licorice Pavlova,12.64,American
+590509,Deep-Fried Watercress Chicken,19.23,Chinese
+978476,Braised Cheese & Mutton,25.54,Indian&Mexican
+841460,Deep-Fried Easter-Style Prawns,17.39,Vitenamese
+246088,Shallow-Fried Sweet & Savory Crab,27.37,American Chinese
+885743,Basted Tomatoes & Vegetables,22.64,Korean
+767709,Tenderized Sugar Vegetable Mix,15.97,Japanese
+822832,Coconut and Pistachio Cone,24.47,Mexican
+667650,White Wine and Guava Genoise,26.73,American
+782355,Plum Pie,10.92,Chinese
+365731,Coffee Gingerbread,18.77,Indian&Mexican
+280683,Simmered Pasta & Rabbit,10.74,Vitenamese
+554595,Blanched Carrot & Coriander Quail,28.32,American Chinese
+496708,Breaded Figs & Olive Clams,11.53,Korean
+200199,Stewed Olives & Mustard Prawns,18.16,Japanese
+817897,Dry-Roasted Pasta & Walnuts,22.16,Mexican
+426859,Poached Casserole of Pie,25.03,American
+266170,White Wine and Kiwi Gingerbread,23.12,Chinese
+306715,Raspberry and Cashew Surprise,22.50,Indian&Mexican
+262541,Blueberry Pud,24.19,Vitenamese
+164628,Cherry Crispies,14.28,American Chinese
+988493,Braised Sweet & Savory Bear,11.36,Korean
+961868,Braised Garlic Bear,21.32,Japanese
+851290,Infused Vinegar Cockles,18.06,Mexican
+773681,Tenderized Oregano Fish,12.99,American
+155062,Dried Lime Spring Vegetables,14.91,Chinese
+698769,Oven-Baked Carrots & Ginger Tofu,15.31,Indian&Mexican
+501954,Walnut and Orange Mooncake,22.73,Vitenamese
+369191,Plum and Honey Strudel,23.39,American Chinese
+438073,Coffee Cookies,20.03,Korean
+263059,Licorice Cheesecake,24.19,Japanese
+825195,Slow-Cooked Garlic & Tomato Mammoth,11.56,Mexican
+874049,Broasted Parsnip & Pear Pheasant,17.70,American
+183923,Roasted Basil & Cinnamon Scallops,25.99,Chinese
+953599,Marinated Mint & Berry Crocodile,14.04,Indian&Mexican
+905585,Poached Lime & Ginger Linguine,25.80,Vitenamese
+605112,Tenderized Nuts & Linguine,19.07,American Chinese
+315283,Caramel and Guava Trifle,25.03,Korean
+106761,Blueberry and White Chocolate Tart,15.96,Japanese
+305563,Chestnut Toast,24.31,Mexican
+875157,Pecan Cake,13.42,American
+733144,Engine-Cooked Easter-Style Pheasant,11.49,Chinese
+499048,Infused Vegetables & Duck,10.70,Indian&Mexican
+644299,Tenderized Salty & Sour Alligator,15.23,Vitenamese
+296218,Stuffed Soy Mussels,28.36,American Chinese
+576743,Simmered Cinnamon & Thyme Vegetables,24.62,Korean
+129450,Shallow-Fried Hot & Sweet Bake,16.55,Japanese
+875792,Guava and Cranberry Gingerbread,11.90,Mexican
+295290,Rum and Cherry Bonbons,12.44,American
+720606,Lemon Bonbons,24.63,Chinese
+196463,Pistachio Jam,12.88,Indian&Mexican
+460355,Blanched White Wine Beef,26.60,Vitenamese
+418299,Fire-Roasted Blueberry Beef,29.62,American Chinese
+271077,Sautéed Egg & Coconut Clams,19.96,Korean
+712500,Dried Dark Beer Lobster,10.14,Japanese
+701724,Basted Fennel & Lime Bisque,20.66,Mexican
+223965,Pan-Fried Jasmine Stuffed Bread,20.15,American
+386497,Milk Chocolate and Melon Pancakes,23.22,Chinese
+501823,Papaya and Pistachio Pound Cake,12.99,Indian&Mexican
+709591,White Chocolate Pud,23.98,Vitenamese
+868495,Honey Toast,13.71,American Chinese
+836194,Pan-Fried Saffron Mammoth,12.98,Korean
+201781,Marinated Basil & Clove Duck,23.11,Japanese
+383626,Broasted Vinegar Mussels,10.51,Mexican
+399207,Tea-Smoked Lime & Ginger Salmon,28.13,American
+706450,Sautéed Vanilla & Mint Salad,18.51,Chinese
+316146,Slow-Cooked Apricot & Basil Vegetable Mix,25.04,Indian&Mexican
+725764,Avocado and Red Wine Jelly,20.79,Vitenamese
+739222,Caramel and Passion Fruit Steamed Pudding,15.95,American Chinese
+616099,Kiwi Strudel,29.68,Korean
+387891,Peach Fruit Salad,11.03,Japanese
+644869,Cooked Soy Venison,21.64,Mexican
+427683,Oven-Grilled Peanuts & Pigeon,24.98,American
+785995,Stir-Fried Western-Style Frog,27.37,Chinese
+758153,Steamed Stew of Herring,28.21,Indian&Mexican
+886100,Stewed Mustard Potato Wedges,19.32,Vitenamese
+314529,Thermal-Cooked Ginger Bread,10.43,American Chinese
+261744,Plum and Milk Chocolate Delight,24.47,Korean
+552919,Walnut and Honey Tarte Tatin,25.44,Japanese
+244673,Gooseberry Doughnut,15.28,Mexican
+711319,Cinnamon Whip,24.90,American
+648071,Pressure-Fried Pine Mutton,17.80,Chinese
+862166,Shallow-Fried Sweet & Spicy Rabbit,19.36,Indian&Mexican
+872609,Gentle-Fried Potatoes & Clams,14.64,Vitenamese
+318622,Slow-Cooked Peach & Vinegar Cod,11.62,American Chinese
+272437,Stir-Fried Mushroom & Rosemary Chutney,12.02,Korean
+501841,Broasted Fennel & Lime Pasta,14.15,Japanese
+815872,Blueberry and Mint Fruit Salad,19.94,Mexican
+278338,Grape and Gooseberry Cookies,11.14,American
+888448,Cocoa Crispies,23.85,Chinese
+684978,Gooseberry Pancakes,19.62,Indian&Mexican
+117194,Deep-Fried Dark Beer Beef,28.80,Vitenamese
+597237,Simmered Sweet & Spicy Bear,26.59,American Chinese
+992027,Braised Tomatoes & Shrimps,19.01,Korean
+540434,Smoked Sweet & Spicy Alligator,18.53,Japanese
+862769,Smoked Thyme & Parsley Moussaka,19.64,Mexican
+568984,Cured Fennel & Garlic Bread,29.04,American
+569756,White Chocolate and Banana Milk,21.21,Chinese
+692211,Chocolate and Raspberry Yogurt,20.38,Indian&Mexican
+864297,Pecan Waffles,12.34,Vitenamese
+993172,Cashew Whip,18.85,American Chinese
+800790,Poached Lime & Ginger Yak,18.15,Korean
+147992,Cured Honey & Thyme Ostrich,21.49,Japanese
+304359,Dried Sweet & Fresh Crocodile,18.40,Mexican
+980334,Fried Cucumber & Lime Prawns,24.22,American
+140437,Dried Easter-Style Lasagna,13.66,Chinese
+976068,Marinated Mushroom Roll,14.17,Indian&Mexican
+861569,Passion Fruit and Elderberry Ice Cream,28.77,Vitenamese
+778043,Chestnut and Honey Pie,22.68,American Chinese
+859534,Honey Toffee,29.94,Korean
+475982,Strawberry Pud,24.26,Japanese
+100338,Sautéed Red Whine Boar,15.43,Mexican
+575005,Slow-Cooked Mushroom & Rosemary Ostrich,13.89,American
+888939,Infused Paprika Snapper,17.65,Chinese
+349033,Brined Dark Ale Frog,15.75,Indian&Mexican
+406839,Gentle-Fried Apricots & Honey Pizza,11.30,Vitenamese
+632696,Baked Coriander & Lemon Walnuts,18.37,American Chinese
+842902,Mint and Cashew Custard,18.79,Korean
+354135,Rum and Pecan Pie,22.50,Japanese
+831834,Grapefruit Waffles,14.74,Mexican
+981436,Mango Strudel,24.74,American
+484896,Oven-Grilled Garlic & Onion Bear,16.31,Chinese
+970570,Blanched Creamy Ostrich,23.82,Indian&Mexican
+247322,Cured Souther-Style Fish,22.02,Vitenamese
+337432,Breaded Walnuts & Scallops,10.60,American Chinese
+916995,Breaded Fennel & Lemon Rice,12.45,Korean
+210920,Fried Sour Risotto,21.51,Japanese
+889038,Orange and Licorice Cheesecake,26.39,Mexican
+559084,White Wine and Licorice Pound Cake,17.19,American
+138687,Melon Bread,26.83,Chinese
+861004,Rum Sundae,12.44,Indian&Mexican
+453785,Basted Yogurt Boar,22.97,Vitenamese
+624356,Simmered Raspberry & Peanut Venison,29.86,American Chinese
+982397,Pressure-Cooked Creamy Crocodile,21.66,Korean
+667165,Seared Apples & Mustard Prawns,10.05,Japanese
+156647,Engine-Cooked Creamy Risotto,23.08,Mexican
+706953,Oven-Baked Basil & Clove Winter Vegetables,12.20,American
+835088,Rum and Grapefruit Pudding,13.15,Chinese
+598164,Pecan and White Chocolate Fruitcake,25.12,Indian&Mexican
+142195,Walnut Cone,23.66,Vitenamese
+381316,Cranberry Jelly,23.96,American Chinese
+837753,Blanched Fennel & Lemon Pheasant,16.34,Korean
+633308,Roasted Cinnamon Horse,15.65,Japanese
+998943,Broasted Saffron Clams,21.39,Mexican
+713439,Simmered Vegetables & Lobster,29.13,American
+526063,Poached Peanuts & Stracciatella,22.60,Chinese
+490652,Pan-Fried Raspberry & Peanut Bisque,19.15,Indian&Mexican
+353076,Smoked Thyme & Parsley Moussaka,15.77,Vitenamese
+325928,Cured Fennel & Garlic Bread,26.80,American Chinese
+797855,White Chocolate and Banana Milk,26.77,Korean
+836236,Chocolate and Raspberry Yogurt,10.34,Japanese
+626642,Pecan Waffles,28.95,Mexican
+402795,Cashew Whip,26.40,American
+924702,Poached Lime & Ginger Yak,20.09,Chinese
+834599,Cured Honey & Thyme Ostrich,18.00,Indian&Mexican
+886768,Dried Sweet & Fresh Crocodile,29.96,Vitenamese
+218787,Fried Cucumber & Lime Prawns,24.18,American Chinese
+138337,Dried Easter-Style Lasagna,21.84,Korean
+578747,Marinated Mushroom Roll,11.00,Japanese
+101004,Passion Fruit and Elderberry Ice Cream,21.45,Mexican
+898395,Chestnut and Honey Pie,15.51,American
+247871,Honey Toffee,19.75,Chinese
+270798,Strawberry Pud,29.11,Indian&Mexican
+310918,Sautéed Red Whine Boar,24.24,Vitenamese
+196166,Slow-Cooked Mushroom & Rosemary Ostrich,14.09,American Chinese
+281157,Infused Paprika Snapper,12.60,Korean
+329799,Brined Dark Ale Frog,27.31,Japanese
+177893,Gentle-Fried Apricots & Honey Pizza,27.97,Mexican
+603325,Baked Coriander & Lemon Walnuts,12.79,American
+886721,Mint and Cashew Custard,19.36,Chinese
+902588,Rum and Pecan Pie,29.72,Indian&Mexican
+266340,Grapefruit Waffles,22.09,Vitenamese
+839486,Mango Strudel,15.60,American Chinese
+627406,Oven-Grilled Garlic & Onion Bear,14.57,Korean
+166554,Blanched Creamy Ostrich,23.44,Japanese
+373497,Cured Souther-Style Fish,26.10,Mexican
+570290,Breaded Walnuts & Scallops,15.01,American
+537430,Breaded Fennel & Lemon Rice,10.47,Chinese
+440203,Fried Sour Risotto,23.78,Indian&Mexican
+602736,Orange and Licorice Cheesecake,29.65,Vitenamese
+378326,White Wine and Licorice Pound Cake,28.94,American Chinese
+392414,Melon Bread,14.69,Korean
+704357,Rum Sundae,10.96,Japanese
+867147,Basted Yogurt Boar,29.75,Mexican
+106437,Simmered Raspberry & Peanut Venison,28.07,American
+218659,Pressure-Cooked Creamy Crocodile,25.79,Chinese
+132565,Seared Apples & Mustard Prawns,22.61,Indian&Mexican
+269918,Engine-Cooked Creamy Risotto,10.53,Vitenamese
+392717,Oven-Baked Basil & Clove Winter Vegetables,16.54,American Chinese
+984498,Rum and Grapefruit Pudding,14.97,Korean
+447895,Pecan and White Chocolate Fruitcake,25.55,Japanese
+906822,Walnut Cone,11.59,Mexican
+268408,Cranberry Jelly,22.06,American
+804034,Blanched Fennel & Lemon Pheasant,11.30,Chinese
+826276,Roasted Cinnamon Horse,17.49,Indian&Mexican
+848971,Broasted Saffron Clams,26.96,Vitenamese
+485785,Simmered Vegetables & Lobster,24.29,American Chinese
+254640,Poached Peanuts & Stracciatella,25.54,Korean
+207898,Pan-Fried Raspberry & Peanut Bisque,27.25,Japanese
+164316,Mint and Pecan Snacks,21.10,Mexican
+685108,Coconut and Lime Buns,26.15,American
+340085,Cashew Toffee,13.55,Chinese
+485858,Dark Chocolate Molten Cake,14.59,Indian&Mexican
+372526,Basted Mint & Mustard Yak,11.16,Vitenamese
+432965,Barbecued Sweet & Spicy Pork,13.00,American Chinese
+485002,Engine-Cooked Fennel & Orange Lobster,17.03,Korean
+187996,Stewed Apricot & Basil Shrimps,14.40,Japanese
+169154,Cured Basil & Mint Bake,20.18,Mexican
+890432,Pressure-Cooked Chestnuts & Pasta,22.73,American
+189832,Banana and Passion Fruit Pound Cake,13.61,Chinese
+387492,Cinnamon and Coconut Cookies,25.54,Indian&Mexican
+389033,Nutmeg Tarte Tatin,24.23,Vitenamese
+693750,Vanilla Cobbler,11.79,American Chinese
+872620,Braised Lime-Coated Boar,23.30,Korean
+490617,Baked Blueberry Ostrich,14.17,Japanese
+807149,Seared Hot & Sweet Tuna,12.10,Mexican
+831381,Oven-Baked Tomatoes & Scallops,18.32,American
+573549,Deep-Fried Mustard & Thyme Gratin,24.16,Chinese
+512586,Baked Confit of Minestrone,25.71,Indian&Mexican
+579935,Coffee and Mango Tarte Tatin,16.23,Vitenamese
+571875,Grapefruit and Ginger Pie,10.88,American Chinese
+991976,Coconut Delight,27.88,Korean
+708540,Cranberry Pancakes,16.94,Japanese
+662152,Fire-Grilled Sweet & Fresh Ostrich,14.04,Mexican
+805069,Cooked Sour & Cream Yak,28.19,American
+158944,Stir-Fried Confit of Fish,26.94,Chinese
+446961,Breaded Fennel & Orange Herring,11.36,Indian&Mexican
+454360,Engine-Cooked Truffles & Salad,26.54,Vitenamese
+699984,Barbecued Chestnuts & Forest Mushrooms,13.45,American Chinese
+597207,Saffron and Praline Cake,12.16,Korean
+259220,Blueberry and Mint Crumble,29.25,Japanese
+847916,Cocoa Custard,29.45,Mexican
+221263,Breaded Peppermint Salmon,26.72,American
+161782,Stir-Fried Sweet & Spicy Cockles,25.05,Chinese
+115302,Stir-Fried Easter-Style Spring Vegetables,18.48,Indian&Mexican
+181063,Grilled Mushroom Potatoes,12.08,Vitenamese
+343855,Apple and Coconut Crispies,24.13,American Chinese
+798807,Pecan and Cinnamon Pound Cake,26.56,Korean
+383862,Milk Chocolate Yogurt,15.67,Japanese
+486971,Avocado Wafer,10.68,Mexican
+541867,Pickled Honey & Thyme Beef,18.13,American
+295019,Thermal-Cooked Salt & Savory Rabbit,22.32,Chinese
+767366,Stir-Fried Souther-Style Frog,24.59,Indian&Mexican
+859966,Breaded Fennel & Lemon Snapper,14.20,Vitenamese
+304672,Infused Dark Beer Risotto,28.44,American Chinese
+246981,Simmered Butter Flatbread,21.61,Korean
+113174,Pistachio and Grapefruit Pie,18.36,Japanese
+757882,Almond and Cranberry Genoise,28.69,Mexican
+165969,Plum Cobbler,19.83,American
+396136,Chestnut Strudel,11.84,Chinese
+596828,Fried Cucumber & Chicken,12.64,Indian&Mexican
+319840,Simmered Fennel Rabbit,24.44,Vitenamese
+148583,Poached Light Ale Shrimps,17.12,American Chinese
+314371,Fried Blueberry Oysters,13.24,Korean
+556485,Baked Creamy Stracciatella,13.83,Japanese
+140199,Steamed Potatoes & Gratin,10.91,Mexican
+676295,Mango and White Chocolate Crispies,20.95,American
+584011,Chestnut and Mango Cobbler,27.53,Chinese
+963999,Lime Soufflé,10.24,Indian&Mexican
+757882,Elderberry Pie,19.66,Vitenamese
+165969,Roasted Salt & Pepper Boar,29.38,American Chinese
+396136,Oven-Baked Creamy Beef,24.32,Korean
+596828,Broasted Beets & Lemon Oysters,20.32,Japanese
+319840,Dried Vegetables & Salmon,17.70,Mexican
+148583,Blanched Chestnuts & Linguine,12.11,American
+314371,Poached Curry of Moussaka,15.74,Chinese
+556485,Almond and Coffee Strudel,15.80,Indian&Mexican
+140199,Broasted Beets & Lemon Oysters,29.78,Vitenamese
+676295,Dried Vegetables & Salmon,13.66,American Chinese
+584011,Blanched Chestnuts & Linguine,10.77,Korean
+963999,Poached Curry of Moussaka,23.46,Japanese
+571875,Almond and Coffee Strudel,13.45,Mexican
+991976,Lime and Hazelnut Cookies,12.52,American
+708540,Melon Ice Lollies,21.55,Chinese
+662152,Licorice Pavlova,25.13,Indian&Mexican
+805069,Deep-Fried Watercress Chicken,29.52,Vitenamese
+158944,Braised Cheese & Mutton,17.59,American Chinese
+446961,Deep-Fried Easter-Style Prawns,21.42,Korean
+454360,Shallow-Fried Sweet & Savory Crab,21.79,Japanese
+699984,Basted Tomatoes & Vegetables,22.01,Mexican
+597207,Tenderized Sugar Vegetable Mix,15.60,American
+259220,Coconut and Pistachio Cone,10.78,Chinese
+847916,White Wine and Guava Genoise,23.71,Indian&Mexican
+221263,Plum Pie,29.91,Vitenamese
+161782,Coffee Gingerbread,16.73,American Chinese
+115302,Simmered Pasta & Rabbit,25.56,Korean
+181063,Blanched Carrot & Coriander Quail,22.56,Japanese
+343855,Breaded Figs & Olive Clams,10.83,Mexican
+446961,Stewed Olives & Mustard Prawns,14.36,American
+454360,Dry-Roasted Pasta & Walnuts,28.48,Chinese
+699984,Poached Casserole of Pie,29.46,Indian&Mexican
+597207,White Wine and Kiwi Gingerbread,12.74,Vitenamese
+259220,Raspberry and Cashew Surprise,24.87,American Chinese
+847916,Blueberry Pud,25.02,Korean
+221263,Cherry Crispies,10.01,Japanese
+161782,Braised Sweet & Savory Bear,24.02,Mexican
+115302,Braised Garlic Bear,29.54,American
+181063,Infused Vinegar Cockles,27.60,Chinese
+343855,Tenderized Oregano Fish,27.07,Indian&Mexican
+798807,Dried Lime Spring Vegetables,27.12,Vitenamese
+383862,Oven-Baked Carrots & Ginger Tofu,10.04,American Chinese
+486971,Walnut and Orange Mooncake,17.97,Korean
+541867,Plum and Honey Strudel,11.12,Japanese
+295019,Coffee Cookies,17.57,Mexican
+767366,Licorice Cheesecake,13.08,American
+859966,Slow-Cooked Garlic & Tomato Mammoth,21.42,Chinese
+304672,Broasted Parsnip & Pear Pheasant,19.54,Indian&Mexican
+246981,Roasted Basil & Cinnamon Scallops,24.00,Vitenamese
+113174,Marinated Mint & Berry Crocodile,10.42,American Chinese
+757882,Poached Lime & Ginger Linguine,22.57,Korean
+165969,Tenderized Nuts & Linguine,22.00,Japanese
+396136,Caramel and Guava Trifle,14.72,Mexican
+596828,Blueberry and White Chocolate Tart,10.68,American
+319840,Chestnut Toast,22.70,Chinese
+148583,Pecan Cake,25.90,Indian&Mexican
+314371,Engine-Cooked Easter-Style Pheasant,20.50,Vitenamese
+556485,Infused Vegetables & Duck,19.63,American Chinese
+140199,Tenderized Salty & Sour Alligator,17.09,Korean
+579935,Stuffed Soy Mussels,22.58,Japanese
+571875,Simmered Cinnamon & Thyme Vegetables,12.39,Mexican
+991976,Shallow-Fried Hot & Sweet Bake,16.44,American
+708540,Guava and Cranberry Gingerbread,19.13,Chinese
+662152,Rum and Cherry Bonbons,12.78,Indian&Mexican
+805069,Lemon Bonbons,19.11,Vitenamese
+158944,Pistachio Jam,15.60,American Chinese
+446961,Blanched White Wine Beef,14.37,Korean
+454360,Fire-Roasted Blueberry Beef,19.41,Japanese
+699984,Sautéed Egg & Coconut Clams,27.02,Mexican
+597207,Dried Dark Beer Lobster,29.95,American
+259220,Basted Fennel & Lime Bisque,25.49,Chinese
+847916,Pan-Fried Jasmine Stuffed Bread,15.61,Indian&Mexican
+221263,Milk Chocolate and Melon Pancakes,10.50,Vitenamese
+161782,Papaya and Pistachio Pound Cake,11.56,American Chinese
+115302,White Chocolate Pud,18.11,Korean
+181063,Honey Toast,14.28,Japanese
+343855,Pan-Fried Saffron Mammoth,25.58,Mexican
+798807,Marinated Basil & Clove Duck,27.17,American
+383862,Broasted Vinegar Mussels,14.67,Chinese
+486971,Tea-Smoked Lime & Ginger Salmon,19.62,Indian&Mexican
+541867,Sautéed Vanilla & Mint Salad,14.30,Vitenamese
+295019,Slow-Cooked Apricot & Basil Vegetable Mix,20.61,American Chinese
+767366,Avocado and Red Wine Jelly,23.45,Korean
+859966,Caramel and Passion Fruit Steamed Pudding,18.24,Japanese
+304672,Kiwi Strudel,15.94,Mexican
+246981,Peach Fruit Salad,20.85,American
+113174,Cooked Soy Venison,20.24,Chinese
+757882,Oven-Grilled Peanuts & Pigeon,16.23,Indian&Mexican
+165969,Stir-Fried Western-Style Frog,12.90,Vitenamese
+396136,Steamed Stew of Herring,10.07,American Chinese
+596828,Stewed Mustard Potato Wedges,26.61,Korean
+319840,Thermal-Cooked Ginger Bread,24.23,Japanese
+148583,Plum and Milk Chocolate Delight,11.77,Mexican
+314371,Walnut and Honey Tarte Tatin,28.04,American
+556485,Cherry Crispies,24.66,Chinese
+140199,Braised Sweet & Savory Bear,13.26,Indian&Mexican
+676295,Braised Garlic Bear,26.47,Vitenamese
+584011,Infused Vinegar Cockles,29.70,American Chinese
+963999,Tenderized Oregano Fish,17.13,Korean
+757882,Dried Lime Spring Vegetables,28.33,Japanese
+165969,Oven-Baked Carrots & Ginger Tofu,20.28,Mexican
+396136,Walnut and Orange Mooncake,29.77,American
+596828,Plum and Honey Strudel,22.46,Chinese
+319840,Coffee Cookies,26.55,Indian&Mexican
+148583,Licorice Cheesecake,27.22,Vitenamese
+314371,Slow-Cooked Garlic & Tomato Mammoth,29.12,American Chinese
+556485,Broasted Parsnip & Pear Pheasant,23.45,Korean
+140199,Roasted Basil & Cinnamon Scallops,12.41,Japanese
+676295,Marinated Mint & Berry Crocodile,17.21,Mexican
+584011,Poached Lime & Ginger Linguine,28.11,American
+963999,Tenderized Nuts & Linguine,25.58,Chinese
+571875,Caramel and Guava Trifle,26.46,Indian&Mexican
+991976,Blueberry and White Chocolate Tart,16.64,Vitenamese
+708540,Chestnut Toast,26.67,American Chinese
+662152,Pecan Cake,11.95,Korean
+805069,Engine-Cooked Easter-Style Pheasant,14.34,Japanese
+158944,Infused Vegetables & Duck,20.90,Mexican
+446961,Tenderized Salty & Sour Alligator,12.72,American
+454360,Infused Vinegar Cockles,21.01,Chinese
+699984,Tenderized Oregano Fish,28.38,Indian&Mexican
+597207,Dried Lime Spring Vegetables,13.53,Vitenamese
+259220,Oven-Baked Carrots & Ginger Tofu,27.67,American Chinese
+847916,Walnut and Orange Mooncake,27.66,Korean
+221263,Plum and Honey Strudel,18.88,Japanese
+161782,Coffee Cookies,14.51,Mexican
+115302,Licorice Cheesecake,21.27,American
+181063,Slow-Cooked Garlic & Tomato Mammoth,22.99,Chinese
+343855,Broasted Parsnip & Pear Pheasant,22.58,Indian&Mexican
+446961,Roasted Basil & Cinnamon Scallops,25.06,Vitenamese
+454360,Marinated Mint & Berry Crocodile,19.04,American Chinese
+699984,Poached Lime & Ginger Linguine,19.76,Korean
+597207,Tenderized Nuts & Linguine,22.54,Japanese
+259220,Caramel and Guava Trifle,14.04,Mexican
+847916,Blueberry and White Chocolate Tart,19.89,American
+221263,Chestnut Toast,18.26,Chinese
+161782,Pecan Cake,24.82,Indian&Mexican
+115302,Engine-Cooked Easter-Style Pheasant,15.12,Vitenamese
+181063,Infused Vegetables & Duck,28.46,American Chinese
+343855,Tenderized Salty & Sour Alligator,18.93,Korean
+798807,Stuffed Soy Mussels,28.46,Japanese
+383862,Simmered Cinnamon & Thyme Vegetables,17.10,Mexican
+486971,Shallow-Fried Hot & Sweet Bake,25.30,American
+541867,Guava and Cranberry Gingerbread,14.47,Chinese
+295019,Rum and Cherry Bonbons,23.91,Indian&Mexican
+767366,Lemon Bonbons,25.18,Vitenamese
+859966,Pistachio Jam,26.65,American Chinese
+304672,Blanched White Wine Beef,29.08,Korean
+246981,Fire-Roasted Blueberry Beef,11.58,Japanese
+113174,Sautéed Egg & Coconut Clams,29.53,Mexican
+757882,Dried Dark Beer Lobster,27.03,American
+165969,Basted Fennel & Lime Bisque,15.35,Chinese
+396136,Pan-Fried Jasmine Stuffed Bread,20.61,Indian&Mexican
+319840,Milk Chocolate and Melon Pancakes,12.92,Vitenamese
+148583,Papaya and Pistachio Pound Cake,23.16,American Chinese
+314371,White Chocolate Pud,25.72,Korean
+556485,Honey Toast,12.81,Japanese
+140199,Pan-Fried Saffron Mammoth,18.19,Mexican
+676295,Marinated Basil & Clove Duck,22.86,American
+584011,Broasted Vinegar Mussels,26.60,Chinese
+963999,Tea-Smoked Lime & Ginger Salmon,13.87,Indian&Mexican
+571875,Sautéed Vanilla & Mint Salad,11.51,Vitenamese
+991976,Fire-Roasted Blueberry Beef,17.83,American Chinese
+708540,Sautéed Egg & Coconut Clams,24.55,Korean
+662152,Dried Dark Beer Lobster,15.01,Japanese
+805069,Basted Fennel & Lime Bisque,15.23,Mexican
+158944,Pan-Fried Jasmine Stuffed Bread,17.37,American
+446961,Milk Chocolate and Melon Pancakes,16.15,Chinese
+454360,Papaya and Pistachio Pound Cake,28.95,Indian&Mexican
+699984,White Chocolate Pud,29.30,Vitenamese
+597207,Honey Toast,17.33,American Chinese
+221263,Pan-Fried Saffron Mammoth,17.07,Korean
+161782,Marinated Basil & Clove Duck,26.28,Japanese
+115302,Slow-Cooked Garlic & Tomato Mammoth,18.76,Mexican
+181063,Broasted Parsnip & Pear Pheasant,22.20,American
+343855,Roasted Basil & Cinnamon Scallops,26.05,Chinese
+446961,Marinated Mint & Berry Crocodile,14.76,Indian&Mexican
+454360,Poached Lime & Ginger Linguine,19.02,Vitenamese
+699984,Tenderized Nuts & Linguine,12.98,American Chinese
+597207,Caramel and Guava Trifle,14.88,Korean
+259220,Marinated Basil & Clove Duck,14.98,Japanese
+847916,Slow-Cooked Garlic & Tomato Mammoth,17.28,Mexican
+221263,Broasted Parsnip & Pear Pheasant,19.88,American
+161782,Roasted Basil & Cinnamon Scallops,21.41,Chinese
+115302,Marinated Mint & Berry Crocodile,15.90,Indian&Mexican
+,,,
