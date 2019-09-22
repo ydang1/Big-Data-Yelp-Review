@@ -136,7 +136,7 @@ sum(test$positive==1)/nrow(test)
 
 
 
-##sebtunebt analysis
+##sentiment analysis
 #define function
 #Scores=Numbers of positive words-Number of negative words
 #If Score >0, means that text has 'positive sentiment'
