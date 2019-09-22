@@ -22,8 +22,6 @@ dentstars = GROUP dentist BY stars;
 starnum = FOREACH dentstars GENERATE COUNT(dentist.review_id);
 DUMP starnum;
 
-/* #####positive vs negative########################### */
-
 dent_positive = FILTER dentist BY (stars >= 3);
 dent_pos_details = GROUP dent_positive ALL;
 dent_pos_num = FOREACH dent_pos_details GENERATE COUNT(dent_positive.review_id);
