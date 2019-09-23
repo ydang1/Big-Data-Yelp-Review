@@ -1,4 +1,4 @@
-# Project Title
+# Project Background
 This is a 4-persons academic team project which we used big data tools combined with other data analysis tools to manipulate and process the data so that it can be queried when loaded on Big Data infrastructure. The Project Requrements are the following:
 
 - Create scripts of processesing or querying the data on Pig or Hive on Hadoop.
